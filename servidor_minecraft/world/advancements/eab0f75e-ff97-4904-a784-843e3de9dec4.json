@@ -9360,6 +9360,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-10 02:26:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_magic": {
     "criteria": {
       "has_planks": "2024-12-10 02:15:39 +0000"

@@ -9431,6 +9431,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_door": {
     "criteria": {
       "has_planks": "2024-12-10 02:16:08 +0000"
@@ -9443,9 +9449,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2024-12-10 01:09:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-10 02:40:17 +0000"
     },
     "done": true
   },
@@ -9467,9 +9491,33 @@
     },
     "done": true
   },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_giant_tree_taiga": "2024-12-10 02:39:49 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/magic_slab": {
     "criteria": {
       "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
     },
     "done": true
   },
@@ -9479,9 +9527,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/magic_stairs": {
     "criteria": {
       "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:40:39 +0000"
     },
     "done": true
   },
