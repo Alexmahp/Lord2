@@ -1719,6 +1719,7 @@
       "highland": "2024-11-19 00:38:13 +0000",
       "jade_cliffs": "2024-11-24 04:47:27 +0000",
       "clover_patch": "2024-11-20 01:56:09 +0000",
+      "mystic_grove": "2024-12-10 02:16:51 +0000",
       "cold_desert": "2024-11-21 01:23:53 +0000",
       "old_growth_woodland": "2024-11-19 06:49:06 +0000",
       "maple_woods": "2024-11-23 22:52:56 +0000",
@@ -1735,6 +1736,7 @@
       "wasteland": "2024-11-24 02:07:25 +0000",
       "old_growth_dead_forest": "2024-11-21 01:22:50 +0000",
       "lush_desert": "2024-11-23 06:17:43 +0000",
+      "redwood_forest": "2024-12-10 02:18:36 +0000",
       "visceral_heap": "2024-12-02 05:22:46 +0000",
       "seasonal_orchard": "2024-11-23 22:55:03 +0000",
       "dune_beach": "2024-11-24 04:43:25 +0000",
@@ -9429,9 +9431,69 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2024-12-10 01:09:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_magic": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 02:16:08 +0000"
     },
     "done": true
   },
