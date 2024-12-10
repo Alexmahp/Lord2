@@ -9587,6 +9587,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skunk": {
+    "criteria": {
+      "ex": "2024-12-10 04:46:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2024-12-10 04:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-10 04:40:26 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:shakeand_mix": {
     "criteria": {
       "shakeand_mix_0": "2024-12-10 04:29:50 +0000"
@@ -9596,6 +9614,12 @@
   "simplyswords:watching_warglaive": {
     "criteria": {
       "requirement": "2024-12-10 04:28:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-10 04:34:15 +0000"
     },
     "done": true
   },

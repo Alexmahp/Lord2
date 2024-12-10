@@ -9474,5 +9474,11 @@
     },
     "done": true
   },
+  "simplyswords:watching_warglaive": {
+    "criteria": {
+      "requirement": "2024-12-10 04:43:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

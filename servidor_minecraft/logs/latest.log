@@ -439,3 +439,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 04:32:51.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9832, l='ServerLevel[world]', x=-777.50, y=64.00, z=5808.50] died: Ivy died
 [10Dec2024 04:32:53.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9840, l='ServerLevel[world]', x=-777.50, y=64.00, z=5808.50] died: Ivy died
 [10Dec2024 04:34:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [We do a little trolling...]
+[10Dec2024 04:39:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [The day of the Dead]
+[10Dec2024 04:40:26.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Getting an Upgrade]
+[10Dec2024 04:43:22.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Eyes Open]
+[10Dec2024 04:46:41.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Hippie Smell]
+[10Dec2024 04:54:02.497] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element graveyard:ruins took 3326 ms
+[10Dec2024 04:54:02.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
+[10Dec2024 04:54:13.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to 560.500000, 100.000000, 6144.500000]
+[10Dec2024 04:55:36.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
