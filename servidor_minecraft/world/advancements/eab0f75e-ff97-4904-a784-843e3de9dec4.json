@@ -9474,6 +9474,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/lower_bone_staff": {
+    "criteria": {
+      "lower_bone_staff": "2024-12-10 04:56:48 +0000"
+    },
+    "done": true
+  },
   "simplyswords:watching_warglaive": {
     "criteria": {
       "requirement": "2024-12-10 04:43:22 +0000"

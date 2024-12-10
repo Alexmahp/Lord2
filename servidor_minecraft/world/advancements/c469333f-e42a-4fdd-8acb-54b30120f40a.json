@@ -9593,9 +9593,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
       "guidetothenextworld_0": "2024-12-10 04:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
     },
     "done": true
   },
@@ -9605,9 +9629,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:shakeand_mix": {
     "criteria": {
       "shakeand_mix_0": "2024-12-10 04:29:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_mangrove": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
     },
     "done": true
   },
@@ -9617,9 +9671,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2024-12-10 04:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:54:38 +0000"
     },
     "done": true
   },
