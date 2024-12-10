@@ -9457,15 +9457,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 05:42:37 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/upper_bone_staff": {
     "criteria": {
       "upper_bone_staff": "2024-12-10 05:16:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 05:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 05:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-12-10 04:25:04 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/summon_lich": {
+    "criteria": {
+      "summoned": "2024-12-10 05:37:27 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/vial_of_blood": {
+    "criteria": {
+      "vial_of_blood": "2024-12-10 05:33:20 +0000"
     },
     "done": true
   },

@@ -5874,3 +5874,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 05:26:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Broken Parts III]
 [10Dec2024 05:26:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Broken Parts I]
 [10Dec2024 05:26:32.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Broken Parts II]
+[10Dec2024 05:27:30.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:27:30.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:28:39.993] [Server thread/DEBUG] [ModernFix/]: Structure graveyard:haunted_house/downstairs_pool/haunted_house_downstairs is being run through DFU (hash e09a3a60ecbc31516424a24a955a61cb56bd4df114492fb499c293199a62fc81), this will cause launch time delays
+[10Dec2024 05:28:41.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:desert_village_horned_statue
+[10Dec2024 05:28:41.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:gerudo_village_goddess_statue
+[10Dec2024 05:28:41.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[10Dec2024 05:28:43.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[10Dec2024 05:28:43.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[10Dec2024 05:28:43.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[10Dec2024 05:29:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> [x:-493, y:63, z:5792, dim:minecraft:overworld]
+[10Dec2024 05:31:09.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9
+[10Dec2024 05:31:09.483] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[10Dec2024 05:31:16.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[10Dec2024 05:31:16.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_3
+[10Dec2024 05:31:16.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_0
+[10Dec2024 05:31:16.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_1
+[10Dec2024 05:31:16.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_2
+[10Dec2024 05:32:30.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:32:30.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:32:42.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[10Dec2024 05:33:20.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/29168, l='ServerLevel[world]', x=-537.70, y=61.12, z=5806.56] died, message: 'Leatherworker was slain by Alexxmahp'
+[10Dec2024 05:33:20.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Blood "Donation"]
+[10Dec2024 05:33:54.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/29109, l='ServerLevel[world]', x=-503.05, y=63.00, z=5787.40] died, message: 'Nitwit was slain by Alexxmahp'
+[10Dec2024 05:34:14.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-474, y=63, z=5817} BlockPos{x=-472, y=63, z=5816}
+[10Dec2024 05:34:14.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-474, y=63, z=5817} BlockPos{x=-472, y=63, z=5816}
+[10Dec2024 05:34:14.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-474, y=63, z=5817} BlockPos{x=-472, y=63, z=5816}
+[10Dec2024 05:34:15.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-474, y=64, z=5819} BlockPos{x=-473, y=63, z=5821}
+[10Dec2024 05:34:15.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-474, y=64, z=5819} BlockPos{x=-473, y=63, z=5821}
+[10Dec2024 05:34:20.890] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/29117, l='ServerLevel[world]', x=-471.37, y=63.76, z=5815.42] died, message: 'Cleric was slain by Alexxmahp'
+[10Dec2024 05:35:11.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/29125, l='ServerLevel[world]', x=-469.30, y=65.54, z=5791.71] died, message: 'Nitwit was slain by Alexxmahp'
+[10Dec2024 05:35:13.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/29126, l='ServerLevel[world]', x=-469.63, y=65.00, z=5794.94] died, message: 'Farmer was slain by Alexxmahp'
+[10Dec2024 05:35:52.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_03
+[10Dec2024 05:35:58.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[10Dec2024 05:36:06.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/31190, l='ServerLevel[world]', x=-173.03, y=69.00, z=6344.49] died, message: 'Farmer was slain by Alexxmahp'
+[10Dec2024 05:36:20.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/31177, l='ServerLevel[world]', x=-168.16, y=70.00, z=6344.91] died, message: 'Farmer was slain by Alexxmahp'
+[10Dec2024 05:36:32.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/31180, l='ServerLevel[world]', x=-169.22, y=71.00, z=6322.51] died, message: 'Mason was slain by Alexxmahp'
+[10Dec2024 05:36:54.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Blood "Donation"]
+[10Dec2024 05:37:27.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Wrath of the Lich]
+[10Dec2024 05:37:27.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Wrath of the Lich]
+[10Dec2024 05:37:30.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:37:30.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:42:19.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
+[10Dec2024 05:42:30.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:42:30.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:42:49.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 is bleeding. xStephy08 was slain by Corrupted Champion
+[10Dec2024 05:42:55.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp is bleeding. Alexxmahp was slain by Corrupted Champion
+[10Dec2024 05:43:12.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp was slain by Corrupted Champion
+[10Dec2024 05:43:18.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
+[10Dec2024 05:43:28.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp is bleeding. Alexxmahp was slain by Corrupted Champion
+[10Dec2024 05:43:34.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[10Dec2024 05:46:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 is bleeding. xStephy08 was slain by Corrupted Champion
+[10Dec2024 05:46:47.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
+[10Dec2024 05:47:30.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:47:30.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

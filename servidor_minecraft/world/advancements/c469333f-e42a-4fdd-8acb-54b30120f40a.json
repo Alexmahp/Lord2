@@ -2190,6 +2190,7 @@
       "melon_slice": "2024-11-19 00:46:31 +0000",
       "beetroot": "2024-11-19 22:19:45 +0000",
       "golden_carrot": "2024-11-20 01:57:14 +0000",
+      "enchanted_golden_apple": "2024-12-10 05:45:24 +0000",
       "cod": "2024-11-19 08:26:23 +0000",
       "cooked_salmon": "2024-11-19 22:24:22 +0000",
       "carrot": "2024-11-19 22:37:44 +0000"
@@ -9593,6 +9594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 05:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2024-12-10 04:54:38 +0000"
@@ -9605,6 +9612,30 @@
     },
     "done": true
   },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2024-12-10 05:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-10 05:40:28 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/summon_lich": {
+    "criteria": {
+      "summoned": "2024-12-10 05:37:27 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
       "guidetothenextworld_0": "2024-12-10 04:39:17 +0000"
@@ -9614,6 +9645,12 @@
   "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/vial_of_blood": {
+    "criteria": {
+      "vial_of_blood": "2024-12-10 05:36:54 +0000"
     },
     "done": true
   },
@@ -9659,6 +9696,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/lower_bone_staff": {
+    "criteria": {
+      "lower_bone_staff": "2024-12-10 05:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2024-12-10 04:54:38 +0000"
@@ -9680,6 +9723,12 @@
   "supplementaries:recipes/decorations/sign_post_mangrove": {
     "criteria": {
       "has_planks": "2024-12-10 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2024-12-10 05:26:32 +0000"
     },
     "done": true
   },
