@@ -5324,3 +5324,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 04:23:19.961] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5002, l='ServerLevel[world]', x=-537.02, y=61.00, z=5808.50] died, message: 'Armorer was slain by Vindicator'
 [10Dec2024 04:24:52.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4998, l='ServerLevel[world]', x=-507.27, y=62.95, z=5792.27] died, message: 'Unemployed was slain by Vindicator'
 [10Dec2024 04:25:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has completed the challenge [Hero of the Village]
+[10Dec2024 04:26:35.965] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[10Dec2024 04:26:37.349] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:witch_villa/backyard/witch_villa_backyard_1
+[10Dec2024 04:26:48.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:26:48.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:26:59.710] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[10Dec2024 04:27:01.071] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[10Dec2024 04:27:01.311] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_07 is being run through DFU (hash 76596ca855b63c58a4b7722ab1e9cd651c3f9dd0016cdaba414c774cf7e7fd47), this will cause launch time delays
+[10Dec2024 04:27:03.946] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[10Dec2024 04:27:03.953] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[10Dec2024 04:27:05.023] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo]] from pos BlockPos{x=-773, y=71, z=5893}
+[10Dec2024 04:27:05.544] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-773, y=71, z=5893} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[10Dec2024 04:27:05.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-773, y=71, z=5893}
+[10Dec2024 04:27:24.645] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[10Dec2024 04:28:10.802] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[10Dec2024 04:28:10.823] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[10Dec2024 04:28:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Eyes Open]
+[10Dec2024 04:29:27.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has reached the goal [Shake and Mix]
+[10Dec2024 04:29:50.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has reached the goal [Shake and Mix]
+[10Dec2024 04:31:48.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:31:48.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:32:40.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9815, l='ServerLevel[world]', x=-779.50, y=64.00, z=5808.50] died: Ivy died
+[10Dec2024 04:32:46.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9826, l='ServerLevel[world]', x=-777.78, y=64.00, z=5808.50] died: Ivy died
+[10Dec2024 04:32:51.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9832, l='ServerLevel[world]', x=-777.50, y=64.00, z=5808.50] died: Ivy died
+[10Dec2024 04:32:53.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9840, l='ServerLevel[world]', x=-777.50, y=64.00, z=5808.50] died: Ivy died
+[10Dec2024 04:34:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [We do a little trolling...]

@@ -9456,9 +9456,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-10 04:25:04 +0000"
+    },
+    "done": true
+  },
   "stellarity:events/on_death": {
     "criteria": {
       "requirement": "2024-12-10 04:10:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:shakeand_mix": {
+    "criteria": {
+      "shakeand_mix_0": "2024-12-10 04:29:27 +0000"
     },
     "done": true
   },
