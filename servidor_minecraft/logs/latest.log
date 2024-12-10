@@ -408,3 +408,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 00:34:03.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Guns and Roses]
 [10Dec2024 00:36:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Made xStephy08 a server operator]
 [10Dec2024 00:49:49.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[10Dec2024 01:00:55.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[10Dec2024 01:02:30.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xStephy08 lost connection: Disconnected
+[10Dec2024 01:02:30.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 left the game
+[10Dec2024 01:02:30.258] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Dec2024 01:05:27.627] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player xStephy08 is c469333f-e42a-4fdd-8acb-54b30120f40a
+[10Dec2024 01:05:33.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xStephy08[/127.26.146.2:49027] logged in with entity id 6789 at (-904.3063826773143, 153.0, 6809.355728843954)
+[10Dec2024 01:05:33.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 joined the game
+[10Dec2024 01:05:33.925] [Server thread/INFO] [Jade/]: Syncing config to xStephy08 (c469333f-e42a-4fdd-8acb-54b30120f40a)
+[10Dec2024 01:07:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> mira
+[10Dec2024 01:07:21.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> trae empuje
+[10Dec2024 01:07:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> xd
+[10Dec2024 01:09:04.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Walking Dead]
+[10Dec2024 01:11:00.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[10Dec2024 01:13:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> amor
+[10Dec2024 01:13:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> DIME
+[10Dec2024 01:13:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> iré a sacar mi ropa de la lavadora y cenar
+[10Dec2024 01:13:49.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> :"c
+[10Dec2024 01:13:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> sisisisi
+[10Dec2024 01:13:55.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> provechoo
+[10Dec2024 01:13:59.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> gracias mi amor
+[10Dec2024 01:14:01.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> vengo
