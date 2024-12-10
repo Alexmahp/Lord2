@@ -703,3 +703,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 06:26:15.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=77, z=-141} BlockPos{x=-205, y=75, z=-141}
 [10Dec2024 06:26:16.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=77, z=-141} BlockPos{x=-205, y=75, z=-141}
 [10Dec2024 06:26:30.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=78, z=-144} BlockPos{x=-205, y=76, z=-145}
+[10Dec2024 06:36:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Slurp Up]
+[10Dec2024 06:36:37.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Slurp Up]
