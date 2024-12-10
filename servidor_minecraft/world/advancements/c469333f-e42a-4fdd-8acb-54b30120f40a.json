@@ -6830,6 +6830,7 @@
   },
   "repurposed_structures:temples": {
     "criteria": {
+      "in_temple_taiga": "2024-12-10 02:10:05 +0000",
       "in_temple_nether_basalt": "2024-12-02 05:15:20 +0000"
     },
     "done": false
