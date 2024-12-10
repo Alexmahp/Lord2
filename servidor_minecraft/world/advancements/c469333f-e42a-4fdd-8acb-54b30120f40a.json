@@ -9630,6 +9630,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/white_bone_staff": {
+    "criteria": {
+      "white_bone_staff": "2024-12-10 05:50:40 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/summon_lich": {
     "criteria": {
       "summoned": "2024-12-10 05:37:27 +0000"
@@ -9651,6 +9657,12 @@
   "graveyard:graveyard/vial_of_blood": {
     "criteria": {
       "vial_of_blood": "2024-12-10 05:36:54 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2024-12-10 06:03:22 +0000"
     },
     "done": true
   },

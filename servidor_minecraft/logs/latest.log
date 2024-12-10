@@ -671,3 +671,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 05:43:34.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
 [10Dec2024 05:46:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 is bleeding. xStephy08 was slain by Corrupted Champion
 [10Dec2024 05:46:47.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
+[10Dec2024 05:47:48.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp is bleeding. Alexxmahp was slain by Corrupted Champion
+[10Dec2024 05:47:54.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 is bleeding. xStephy08 was slain by Corrupted Champion
+[10Dec2024 05:48:18.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
+[10Dec2024 05:48:25.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp was slain by Corrupted Champion
+[10Dec2024 05:49:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[10Dec2024 05:49:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 is bleeding. xStephy08 was slain by Corrupted Champion
+[10Dec2024 05:49:34.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
+[10Dec2024 05:49:47.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 is bleeding. xStephy08 was killed by Alexxmahp using magic
+[10Dec2024 05:50:40.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Staff of Zatraq'gul]
+[10Dec2024 05:51:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Staff of Zatraq'gul]
+[10Dec2024 05:53:24.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Set the weather to clear]
+[10Dec2024 06:06:26.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexxmahp lost connection: Disconnected
+[10Dec2024 06:06:26.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp left the game
+[10Dec2024 06:06:37.074] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Alexxmahp is eab0f75e-ff97-4904-a784-843e3de9dec4
+[10Dec2024 06:06:43.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexxmahp[/127.79.158.15:39201] logged in with entity id 41264 at (-1668.3024821037325, 64.0, 8005.480936854538)
+[10Dec2024 06:06:43.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp joined the game
+[10Dec2024 06:06:43.119] [Server thread/INFO] [Jade/]: Syncing config to Alexxmahp (eab0f75e-ff97-4904-a784-843e3de9dec4)
+[10Dec2024 06:22:44.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-132, y=77, z=-142} BlockPos{x=-132, y=75, z=-140}
+[10Dec2024 06:22:44.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-132, y=77, z=-142} BlockPos{x=-132, y=75, z=-140}
+[10Dec2024 06:23:33.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-144, y=72, z=-150} BlockPos{x=-144, y=72, z=-149}
+[10Dec2024 06:23:39.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=76, z=-146} BlockPos{x=-138, y=75, z=-145}
+[10Dec2024 06:24:08.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=73, z=-153} BlockPos{x=-164, y=71, z=-153}
+[10Dec2024 06:24:08.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=73, z=-153} BlockPos{x=-164, y=71, z=-153}
+[10Dec2024 06:24:08.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=73, z=-154} BlockPos{x=-164, y=71, z=-153}
+[10Dec2024 06:24:08.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=73, z=-154} BlockPos{x=-164, y=71, z=-153}
+[10Dec2024 06:25:01.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=73, z=-132} BlockPos{x=-182, y=71, z=-132}
+[10Dec2024 06:25:01.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=73, z=-132} BlockPos{x=-182, y=71, z=-132}
+[10Dec2024 06:25:07.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=70, z=-112} BlockPos{x=-161, y=70, z=-113}
+[10Dec2024 06:25:07.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=70, z=-112} BlockPos{x=-161, y=70, z=-113}
+[10Dec2024 06:26:15.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=77, z=-141} BlockPos{x=-205, y=75, z=-141}
+[10Dec2024 06:26:16.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=77, z=-141} BlockPos{x=-205, y=75, z=-141}
+[10Dec2024 06:26:30.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=78, z=-144} BlockPos{x=-205, y=76, z=-145}
