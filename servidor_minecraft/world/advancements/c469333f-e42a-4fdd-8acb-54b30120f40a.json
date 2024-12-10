@@ -9539,6 +9539,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-12-10 02:43:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_planks": "2024-12-10 02:40:39 +0000"

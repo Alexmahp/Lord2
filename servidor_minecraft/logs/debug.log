@@ -6268,3 +6268,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 02:41:00.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 02:43:41.553] [Worker-Main-11/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_01 is being run through DFU (hash d938264cbdbe6c3fbc712b9138dad69981ed85b1cb37cdd3c3ddbac6d821b63b), this will cause launch time delays
 [10Dec2024 02:43:42.293] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_11 is being run through DFU (hash c5565051013b30fdd5de13d0a67193214456056fe31d7ffd4db4a27a5e930a6f), this will cause launch time delays
+[10Dec2024 02:46:00.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 02:46:00.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 02:51:00.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 02:51:00.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
