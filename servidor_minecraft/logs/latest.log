@@ -463,3 +463,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 01:33:47.561] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 220
 [10Dec2024 01:33:47.561] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.7273608126518125d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.012560964766156101d,Name:"Random spawn bonus",Operation:1,UUID:[I;-74076831,50088281,-1839153542,-1049625097]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 220
 [10Dec2024 01:33:47.562] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@63ed2e95]Can't spawn wave because max cap has been reached
+[10Dec2024 01:51:47.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[10Dec2024 01:51:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> hola
+[10Dec2024 01:52:59.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> olvidaste algo
+[10Dec2024 01:53:05.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> mmm
+[10Dec2024 01:53:09.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> q cosa amor
+[10Dec2024 01:53:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> la infección xc
+[10Dec2024 01:53:14.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> ay
+[10Dec2024 01:53:17.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> vg
+[10Dec2024 01:53:36.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> lo quito cuando salgamos
+[10Dec2024 01:54:44.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[10Dec2024 01:57:39.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> q será ese encantamiento
+[10Dec2024 01:58:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> ola
+[10Dec2024 02:03:07.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> creo que ya es todo
