@@ -5273,3 +5273,527 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 05:32:53.887] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_5 is being run through DFU (hash 149ee8c3ee5b20593dc9bfe3399281b2cc7621ee72cfd00040b59a3cc4d749a5), this will cause launch time delays
 [12Dec2024 05:32:54.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
 [12Dec2024 05:33:03.933] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_4b is being run through DFU (hash 3332313b00090ffb490f429dfe8b62d2a8c6e7ae7de113f5e0e589e38cd05a97), this will cause launch time delays
+[12Dec2024 05:34:56.865] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[12Dec2024 05:34:56.876] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[12Dec2024 05:34:56.884] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[12Dec2024 05:35:12.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:35:12.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:35:13.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[12Dec2024 05:35:13.266] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_6 is being run through DFU (hash fc412bc441f52e517d132887d71fc75c953272010496dbe356e77d33943fe26d), this will cause launch time delays
+[12Dec2024 05:36:22.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[12Dec2024 05:36:26.902] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[12Dec2024 05:36:58.102] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_8b is being run through DFU (hash bce318cc77c32b54f8c901f3ec5c16011a0be7f77852a8059ca52ba9645e6f4c), this will cause launch time delays
+[12Dec2024 05:37:06.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[12Dec2024 05:38:02.531] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[12Dec2024 05:38:02.535] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[12Dec2024 05:38:02.540] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[12Dec2024 05:38:02.553] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[12Dec2024 05:38:02.557] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[12Dec2024 05:38:44.589] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[12Dec2024 05:39:13.467] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo]] from pos BlockPos{x=-2299, y=72, z=53}
+[12Dec2024 05:39:13.608] [Worker-Main-16/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[12Dec2024 05:39:13.649] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[12Dec2024 05:39:13.649] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[12Dec2024 05:39:13.650] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[12Dec2024 05:39:13.752] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[12Dec2024 05:39:13.753] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[12Dec2024 05:39:14.537] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[12Dec2024 05:39:14.541] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[12Dec2024 05:39:16.088] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[12Dec2024 05:39:16.094] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[12Dec2024 05:39:16.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[12Dec2024 05:39:16.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2299, y=72, z=53} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[12Dec2024 05:39:16.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-2299, y=72, z=53}
+[12Dec2024 05:39:19.991] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[12Dec2024 05:39:20.113] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[12Dec2024 05:39:56.387] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[12Dec2024 05:39:56.417] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[12Dec2024 05:39:56.428] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[12Dec2024 05:39:56.436] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[12Dec2024 05:40:04.558] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[12Dec2024 05:40:14.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:40:14.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:40:50.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8042, l='ServerLevel[world]', x=-2365.22, y=83.00, z=-56.81] died: Ivy was killed by xStephy08 using magic
+[12Dec2024 05:40:54.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8129, l='ServerLevel[world]', x=-2365.33, y=83.00, z=-61.18] died: Ivy was killed by xStephy08 using magic
+[12Dec2024 05:41:59.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8487, l='ServerLevel[world]', x=-2435.10, y=69.00, z=-65.10] died: Ivy was shot by Skeleton
+[12Dec2024 05:41:59.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8492, l='ServerLevel[world]', x=-2433.66, y=69.00, z=-66.00] died: Ivy was shot by Skeleton
+[12Dec2024 05:42:09.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8418, l='ServerLevel[world]', x=-2425.24, y=68.00, z=-69.00] died: Ivy was shot by Skeleton
+[12Dec2024 05:42:09.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8478, l='ServerLevel[world]', x=-2423.06, y=70.31, z=-72.76] died: Ivy was shot by Skeleton
+[12Dec2024 05:43:01.921] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[12Dec2024 05:43:17.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[12Dec2024 05:43:17.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_1
+[12Dec2024 05:43:17.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_descent_0
+[12Dec2024 05:43:17.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_0
+[12Dec2024 05:43:17.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_3
+[12Dec2024 05:43:18.481] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[12Dec2024 05:43:18.482] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[12Dec2024 05:43:18.483] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[12Dec2024 05:43:18.484] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[12Dec2024 05:43:18.485] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[12Dec2024 05:43:18.486] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[12Dec2024 05:43:18.486] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[12Dec2024 05:43:18.487] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[12Dec2024 05:43:18.487] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[12Dec2024 05:43:18.488] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[12Dec2024 05:43:18.488] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[12Dec2024 05:43:18.489] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[12Dec2024 05:43:18.490] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[12Dec2024 05:43:18.490] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[12Dec2024 05:43:18.491] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[12Dec2024 05:43:18.491] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[12Dec2024 05:43:18.492] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[12Dec2024 05:43:18.492] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[12Dec2024 05:43:18.493] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[12Dec2024 05:43:18.494] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[12Dec2024 05:43:18.494] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[12Dec2024 05:43:18.495] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[12Dec2024 05:43:18.495] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[12Dec2024 05:43:18.496] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[12Dec2024 05:43:18.496] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[12Dec2024 05:43:18.497] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[12Dec2024 05:43:18.497] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[12Dec2024 05:43:18.498] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[12Dec2024 05:43:18.501] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[12Dec2024 05:43:18.502] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[12Dec2024 05:43:18.503] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[12Dec2024 05:43:18.504] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[12Dec2024 05:43:18.505] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[12Dec2024 05:43:18.506] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[12Dec2024 05:43:18.506] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[12Dec2024 05:43:18.507] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[12Dec2024 05:43:18.507] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[12Dec2024 05:43:18.508] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[12Dec2024 05:43:18.509] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[12Dec2024 05:43:18.509] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[12Dec2024 05:43:18.510] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[12Dec2024 05:43:18.511] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[12Dec2024 05:43:18.511] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[12Dec2024 05:43:18.512] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[12Dec2024 05:43:18.513] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[12Dec2024 05:43:18.514] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[12Dec2024 05:43:18.514] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[12Dec2024 05:43:18.516] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[12Dec2024 05:43:18.516] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[12Dec2024 05:43:18.517] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[12Dec2024 05:43:18.518] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[12Dec2024 05:43:18.519] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[12Dec2024 05:43:18.519] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[12Dec2024 05:43:18.520] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[12Dec2024 05:43:18.520] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[12Dec2024 05:43:18.529] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[12Dec2024 05:43:18.530] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[12Dec2024 05:43:18.530] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[12Dec2024 05:43:18.531] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[12Dec2024 05:43:18.531] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[12Dec2024 05:43:18.532] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[12Dec2024 05:43:18.533] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[12Dec2024 05:43:18.533] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[12Dec2024 05:43:18.534] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[12Dec2024 05:43:18.534] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[12Dec2024 05:43:18.535] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[12Dec2024 05:43:18.535] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[12Dec2024 05:43:18.536] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[12Dec2024 05:43:18.537] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[12Dec2024 05:43:18.537] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[12Dec2024 05:43:18.538] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[12Dec2024 05:43:18.538] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[12Dec2024 05:43:18.539] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[12Dec2024 05:43:18.540] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[12Dec2024 05:43:18.541] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[12Dec2024 05:43:18.541] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[12Dec2024 05:43:18.543] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[12Dec2024 05:43:18.543] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[12Dec2024 05:43:18.544] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[12Dec2024 05:43:18.544] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[12Dec2024 05:43:18.545] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[12Dec2024 05:43:18.559] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[12Dec2024 05:43:18.560] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[12Dec2024 05:43:18.561] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[12Dec2024 05:43:18.561] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[12Dec2024 05:43:18.562] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[12Dec2024 05:43:18.562] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[12Dec2024 05:43:18.563] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[12Dec2024 05:43:18.563] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[12Dec2024 05:43:18.564] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[12Dec2024 05:43:18.565] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[12Dec2024 05:43:18.565] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[12Dec2024 05:43:18.566] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[12Dec2024 05:43:18.566] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[12Dec2024 05:43:18.567] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[12Dec2024 05:43:18.567] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[12Dec2024 05:43:18.568] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[12Dec2024 05:43:18.568] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[12Dec2024 05:43:18.569] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[12Dec2024 05:43:18.569] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[12Dec2024 05:43:18.570] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[12Dec2024 05:43:18.570] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[12Dec2024 05:43:18.571] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[12Dec2024 05:43:18.571] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[12Dec2024 05:43:29.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9060, l='ServerLevel[world]', x=-2548.50, y=68.00, z=-79.50] died: Ivy was blown up by Creeper
+[12Dec2024 05:43:30.336] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_10b is being run through DFU (hash 8e67e0978c41562d9d58e02f2f6b0048e2847205ca5eb41073df846c9fb59d68), this will cause launch time delays
+[12Dec2024 05:43:48.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9137, l='ServerLevel[world]', x=-2604.92, y=64.09, z=-67.08] died: Ivy was shot by Skeleton
+[12Dec2024 05:43:54.574] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9132, l='ServerLevel[world]', x=-2611.20, y=63.94, z=-69.89] died: Ivy was shot by Skeleton
+[12Dec2024 05:44:03.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9140, l='ServerLevel[world]', x=-2617.47, y=63.00, z=-81.30] died: Ivy was shot by Skeleton
+[12Dec2024 05:44:28.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[12Dec2024 05:44:32.033] [Server thread/DEBUG] [ModernFix/]: Structure graveyard:small_grave/crashed_carriage is being run through DFU (hash cb4c7576283492f43f08b1c9542f9e4c80143b74ac3018d6cf122cbc71b28240), this will cause launch time delays
+[12Dec2024 05:44:32.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:graveyard
+[12Dec2024 05:44:33.337] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:stray_fort/stray_fort_2 is being run through DFU (hash f7e75c3cc5c60d2e768a6c86e1b7b0e744451978096ab0f35e553aff0eea8f3f), this will cause launch time delays
+[12Dec2024 05:44:34.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[12Dec2024 05:45:14.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:45:14.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:47:35.459] [Server thread/DEBUG] [mixin/]: Mixing spawning.maggot.BarrelZombieMaggot from borninconfiguration.mixins.json into net.mcreator.borninchaosv.procedures.BarrelZombieDeathTimeIsReachedProcedure
+[12Dec2024 05:47:35.460] [Server thread/DEBUG] [mixin/]: borninconfiguration.mixins.json:spawning.maggot.BarrelZombieMaggot: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Dec2024 05:49:10.458] [Server thread/DEBUG] [mixin/]: Mixing spawning.maggot.DoorKnightMaggot from borninconfiguration.mixins.json into net.mcreator.borninchaosv.procedures.DoorKnightDeathTimeIsReachedProcedure
+[12Dec2024 05:49:10.458] [Server thread/DEBUG] [mixin/]: borninconfiguration.mixins.json:spawning.maggot.DoorKnightMaggot: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Dec2024 05:50:14.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:50:14.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:54:31.035] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[12Dec2024 05:54:36.972] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[12Dec2024 05:54:37.257] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_03
+[12Dec2024 05:54:52.675] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry]] from pos BlockPos{x=-2955, y=70, z=-165}
+[12Dec2024 05:54:58.263] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[12Dec2024 05:55:02.180] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[12Dec2024 05:55:08.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[12Dec2024 05:55:14.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:55:14.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:55:42.986] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[12Dec2024 05:57:10.367] [Worker-Main-15/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_10 is being run through DFU (hash 6a08c224a6476bee9f71a7e9a61eedfc6a182f1b196df805242687d0196aef5d), this will cause launch time delays
+[12Dec2024 05:58:15.425] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[12Dec2024 05:58:27.258] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[12Dec2024 05:58:27.264] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[12Dec2024 05:58:27.300] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[12Dec2024 05:58:27.359] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[12Dec2024 05:58:27.383] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[12Dec2024 05:58:27.397] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[12Dec2024 05:58:27.493] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[12Dec2024 05:58:27.515] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[12Dec2024 05:58:27.522] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[12Dec2024 05:58:29.011] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[12Dec2024 05:58:29.383] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[12Dec2024 05:58:29.438] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[12Dec2024 05:58:29.451] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[12Dec2024 05:58:29.462] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[12Dec2024 05:58:29.470] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[12Dec2024 05:58:29.480] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[12Dec2024 05:58:29.530] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[12Dec2024 05:58:29.543] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[12Dec2024 05:58:29.549] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[12Dec2024 05:58:29.556] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[12Dec2024 05:58:29.561] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[12Dec2024 05:58:29.569] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[12Dec2024 05:58:29.576] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[12Dec2024 05:58:29.581] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[12Dec2024 05:58:29.655] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[12Dec2024 05:58:29.751] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[12Dec2024 05:58:29.779] [Worker-Main-18/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_0 is being run through DFU (hash 682a9ab05e08fa7de0d130f2ce2efe446e2349880c4af076fd6477f2c4c874e7), this will cause launch time delays
+[12Dec2024 05:58:29.912] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[12Dec2024 05:58:29.974] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[12Dec2024 05:58:30.006] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[12Dec2024 05:58:36.999] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[12Dec2024 05:59:01.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/12604, l='ServerLevel[world]', x=-3508.52, y=94.00, z=-267.32] died: Ivy was shot by Pillager
+[12Dec2024 05:59:03.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/12605, l='ServerLevel[world]', x=-3508.97, y=94.00, z=-266.74] died: Ivy was shot by Pillager
+[12Dec2024 05:59:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Intruder Alert]
+[12Dec2024 05:59:14.013] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[12Dec2024 05:59:15.460] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[12Dec2024 06:00:09.728] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[12Dec2024 06:00:14.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 06:00:14.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:00:19.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[12Dec2024 06:00:25.614] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_06
+[12Dec2024 06:00:28.704] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_09
+[12Dec2024 06:00:38.953] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[12Dec2024 06:00:42.084] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[12Dec2024 06:00:47.018] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[12Dec2024 06:02:00.934] [Worker-Main-15/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_5b is being run through DFU (hash 3989f505e26e367a6ff51499026fa2e8207f71b1d7ac829a06a0fe57b8758949), this will cause launch time delays
+[12Dec2024 06:02:08.182] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[12Dec2024 06:03:12.442] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[12Dec2024 06:03:21.447] [Worker-Main-18/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_2 is being run through DFU (hash fcd9576a6a2fbb9c9c9a3a591d5e298318cab018fa17ce47e6d611b9b70e4fa6), this will cause launch time delays
+[12Dec2024 06:03:28.159] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[12Dec2024 06:03:35.076] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_13
+[12Dec2024 06:03:35.427] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[12Dec2024 06:03:36.356] [Worker-Main-18/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_part_0 is being run through DFU (hash 4dd72dca6835da753f865f518aa76d9d071b61a048e56e37a0ee3c37b332e5ed), this will cause launch time delays
+[12Dec2024 06:03:36.529] [Worker-Main-18/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_0 is being run through DFU (hash 3c764b0bc7c91cf2dfa1c4bb629a1f8b680ec45d3621216d0e5e28d179428ae9), this will cause launch time delays
+[12Dec2024 06:03:36.706] [Worker-Main-18/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_part_1 is being run through DFU (hash e8c6d3e71ef55eb4e2b4d247afdf0a34e24ccb53d0e13a0194b4ca8a4d6cf178), this will cause launch time delays
+[12Dec2024 06:03:36.796] [Worker-Main-18/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_2 is being run through DFU (hash ae73f209572847a5f20652eaa24cac43a158c2456b9623e26ecac259528e498b), this will cause launch time delays
+[12Dec2024 06:03:36.808] [Worker-Main-18/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_1 is being run through DFU (hash fa1f924aa834900f127450bbca4ddf20807ad5807442e5d27e158f3e2c4a9c2e), this will cause launch time delays
+[12Dec2024 06:04:01.723] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_03
+[12Dec2024 06:04:06.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:06.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:06.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:06.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:06.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:10.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:10.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:10.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:10.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:11.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:14.931] [Worker-Main-16/DEBUG] [ModernFix/]: Structure graveyard:giant_mushroom/giant_brown_mushroom_stem_01 is being run through DFU (hash cf3490d629dfeebdb22836b1e984e54cfcac6dfe631634b359fc22364d574df5), this will cause launch time delays
+[12Dec2024 06:04:15.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:18.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:18.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:18.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:19.038] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[12Dec2024 06:04:20.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.409] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.616] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/portal_room is being run through DFU (hash dbd4111dcb892e1c348309d0e379aa7a13ef8e4c9f8c5e8947290353fd012754), this will cause launch time delays
+[12Dec2024 06:04:22.636] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/turn_2 is being run through DFU (hash 0525b6ba75bf8e5974e6081b233463faf6ecafe9d2dbce8811391f0c0e8bbec9), this will cause launch time delays
+[12Dec2024 06:04:22.639] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/straight is being run through DFU (hash df60fd40d81714b0dd98c6a1b4ac1868248b3e6465b33486fea806ee4f1e29d6), this will cause launch time delays
+[12Dec2024 06:04:22.641] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/spider_crossing is being run through DFU (hash f75de6d2e473055e5a59fcb0243d43016ab148f806e785f428703aad561c6733), this will cause launch time delays
+[12Dec2024 06:04:22.646] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/evoker_2_vindicators is being run through DFU (hash cdb852302a120bea2b9c8e24fd57abfcc2aef53ac7e2cb40f123b199673c793e), this will cause launch time delays
+[12Dec2024 06:04:22.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.724] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/ritual_crossing is being run through DFU (hash d61994a2c5015538675ec990fa76e2ef9c8598047d4b98e5a1b597134dca204f), this will cause launch time delays
+[12Dec2024 06:04:22.729] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/fountains_crossing is being run through DFU (hash 4db159564cfe7d85349e69863ec3b6a7ad01e86e06588ce4b319d6b2f2b468a5), this will cause launch time delays
+[12Dec2024 06:04:22.734] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/library_crossing is being run through DFU (hash d159c0994e7a51e53e105208ba36e9974eed7f24a504e905d1af1babeb089c0e), this will cause launch time delays
+[12Dec2024 06:04:22.738] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/3_way_crossing_treasure is being run through DFU (hash 373af0b072bda4223c6493c4a497a300f5c423cad113fcc02aeb1b88385f7005), this will cause launch time delays
+[12Dec2024 06:04:22.741] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/sculk_crossing is being run through DFU (hash 13cd7b2f89def1da578f7a547e2f739a2d9e60c5ca9f52d19ffe412b84c6c499), this will cause launch time delays
+[12Dec2024 06:04:22.746] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/straight_alt_treasure is being run through DFU (hash 2cc4deb539e1b58bcb76c8e3498c0a03d2a097284c895864e6633f8442491c10), this will cause launch time delays
+[12Dec2024 06:04:22.748] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/stairs_straight_upper is being run through DFU (hash 466a3b61749aab85a20d52c2f1ca1d50e0a6edd4521d8b98c2cfd5e33fbe9122), this will cause launch time delays
+[12Dec2024 06:04:22.751] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/witch is being run through DFU (hash 12bc61b03e9d4e8db9eb463cb9a53f86602b0245657e44e3bf18fbcbdf52ec26), this will cause launch time delays
+[12Dec2024 06:04:22.758] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/stairs_round_middle is being run through DFU (hash 45127dfeea07a69e9dde36d82a57ace3d10d132b820e03abcf90e090c3f82475), this will cause launch time delays
+[12Dec2024 06:04:22.763] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/4_way_crossing is being run through DFU (hash a4236ee8bcfffdac97c17f3a2c1681306bf42a02ec91ee1deba2df51cde8889e), this will cause launch time delays
+[12Dec2024 06:04:22.770] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/3_way_crossing is being run through DFU (hash af1b640282f11804ca259689c2e472432a0affa8cf62fc34b2bbb66397db7fb4), this will cause launch time delays
+[12Dec2024 06:04:22.774] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/stairs_straight_lower is being run through DFU (hash 459d77f935660a4ebbafb67436857c4250b5393ca1526b2474e21ec983fc233c), this will cause launch time delays
+[12Dec2024 06:04:22.777] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/turn_1_treasure is being run through DFU (hash 21884ec46beb79352bdb92c6c9b9127d3177f7a0a14d01a110e6012083c8ee70), this will cause launch time delays
+[12Dec2024 06:04:22.780] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/straight_alt is being run through DFU (hash f6018bab9bd5a652d0a84921a682fdc107480f9f65e672ac3a18312e201e2aa9), this will cause launch time delays
+[12Dec2024 06:04:22.782] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/turn_1 is being run through DFU (hash 77a037ac93ce52036672192cb872c26f7f044b6787726dc4c3635b18093ffb32), this will cause launch time delays
+[12Dec2024 06:04:22.785] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/ambush_crossing is being run through DFU (hash 8a083e1dce2924cc96fa57dbd0dd098818820bf061db8a46ac1699ad6fedb000), this will cause launch time delays
+[12Dec2024 06:04:22.789] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/sniffer_crossing is being run through DFU (hash 626b4fa74047be6303441ff16fc97bd8dd7cc125d8b92275b5e87c064508efd4), this will cause launch time delays
+[12Dec2024 06:04:22.795] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/lush_crossing is being run through DFU (hash 15cef8a9c029894c36eab2606bf5a9f78c0ce8a61dd55c5ed3ad93fd307011c4), this will cause launch time delays
+[12Dec2024 06:04:22.801] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/stairs_round_upper is being run through DFU (hash 910e3ac7ec27bf961ac4b4ae2793de813636438ce3dde34c2fb435ddd059d19f), this will cause launch time delays
+[12Dec2024 06:04:22.805] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/turn_2_treasure is being run through DFU (hash 4583abc289c5724f8cb3c131b1683e5185d9f21838990e9a215a7772299aa8a8), this will cause launch time delays
+[12Dec2024 06:04:22.810] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/4_way_crossing_treasure is being run through DFU (hash 3efea0f38533010f4e17a2dc2ca9f378411c8612003e9724c5608f088f904c26), this will cause launch time delays
+[12Dec2024 06:04:22.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.874] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/rascal_crossing is being run through DFU (hash ee8f4bd8a3a19692b7cf327fa039558646ca318a8cf77f14e6648289c3de41e2), this will cause launch time delays
+[12Dec2024 06:04:22.883] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/tuff_golem_crossing is being run through DFU (hash 8761dde8afc6ce44e1a04bfbd58c80104c11f6fc63821c8057783e7aeda04099), this will cause launch time delays
+[12Dec2024 06:04:22.889] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/straight_treasure is being run through DFU (hash d3fa8e72344ce870e97f583e11d667fd9b96f602d88ff961e78dae2ac75cc9dc), this will cause launch time delays
+[12Dec2024 06:04:22.892] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/turn_2_alt is being run through DFU (hash 16c69cb6552af0992f7ae72dd76e082954652208c902f93b3ff11adb8c1c7a9c), this will cause launch time delays
+[12Dec2024 06:04:22.897] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/turn_1_alt is being run through DFU (hash ad3a330dea84dde743672e9ee368298e3f879e39b987eeb01f05e1d9b3e10ee1), this will cause launch time delays
+[12Dec2024 06:04:22.902] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/straight_binary is being run through DFU (hash f11bc7129ed749dbb08cf2be7a36c192f50fe3c2b316401d1738c4aa785d2350), this will cause launch time delays
+[12Dec2024 06:04:22.905] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/straight_binary_alt is being run through DFU (hash 64ff007610f5de9978816bd1185b03288e94880482ffbff9d86c5f33f9d91805), this will cause launch time delays
+[12Dec2024 06:04:22.910] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/dead_end is being run through DFU (hash 94c2aee9d79dc84f39c107eb16e0b0136c19ff144ed4189b2289c2cdb2600169), this will cause launch time delays
+[12Dec2024 06:04:22.913] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/library_small is being run through DFU (hash d924225a67e56f69851b23bb43918aaeb6aa1107935f708e5db5143d87714c18), this will cause launch time delays
+[12Dec2024 06:04:22.928] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.931] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/library_big is being run through DFU (hash fec7027c47e31571700d1b0d80e433e9066696b44870a14cdf11b1cee04bf862), this will cause launch time delays
+[12Dec2024 06:04:22.962] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/crypt_small is being run through DFU (hash 2aa56dcb726fb1506d8e919ee27c711566700d80040a35cd43b3772056da114c), this will cause launch time delays
+[12Dec2024 06:04:22.974] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/workshop is being run through DFU (hash 26c0d2ffd8bc4f62f69ef8fcd34e70e161c0b872b5c268d86d4e0635f92cd039), this will cause launch time delays
+[12Dec2024 06:04:22.980] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/small_storage is being run through DFU (hash 92d1cff33c4689d9cd22eb36d7c0589982fecaad6671ebf5e076c7b38c1b27b4), this will cause launch time delays
+[12Dec2024 06:04:22.985] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/stairs_round_lower is being run through DFU (hash 0ed31e400ca5672546521a23816eda0856adb4ab7320d2a8be3139d671a6d3ea), this will cause launch time delays
+[12Dec2024 06:04:22.990] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/living_headquarters is being run through DFU (hash f5d53ea8823b1629cbea3ac6cd913b6c4226b0e82e16a4863e8047a3b8897b46), this will cause launch time delays
+[12Dec2024 06:04:23.002] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/farm is being run through DFU (hash 7ce7444c33d9e0a6fb252a22a1192b1915f19758d95ee1c55c9c3f50e5ceccb6), this will cause launch time delays
+[12Dec2024 06:04:23.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.016] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/prison is being run through DFU (hash 87dd4226b7e031198b635877b72e007cba804bc70d3b0f89f1262062e64315eb), this will cause launch time delays
+[12Dec2024 06:04:23.028] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/conference_room is being run through DFU (hash 9eca15021476ff5b8870b0399410fe3b84f8535d9a7b2d0066498afeb03f4e5a), this will cause launch time delays
+[12Dec2024 06:04:23.040] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/amethyst_enchantery is being run through DFU (hash b8eb535974dcd1eab18eb6163cc509c916bf097ad1335625a17163d8064e9fa1), this will cause launch time delays
+[12Dec2024 06:04:23.053] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/storage_large is being run through DFU (hash 7158a73238ea57d2504a7195c6baa631ff32b707d268f7f05bd14e45b2da228a), this will cause launch time delays
+[12Dec2024 06:04:23.072] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/vision_alt is being run through DFU (hash 19755c4fc367bd4219e44ba3615d1ac6936943c755ccf4bbb3a0ad22418dfd9f), this will cause launch time delays
+[12Dec2024 06:04:23.077] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/corridors/straight_binary_alt_alt is being run through DFU (hash 98ec1b37c1e8ae53dc2411f1341253a429e379c266ad6f85f6584d6e4aee1deb), this will cause launch time delays
+[12Dec2024 06:04:23.083] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/vision is being run through DFU (hash 66bc08f543a80747221fe1869adf2906ecbc45f730400551a4f87f9757bbb1f7), this will cause launch time delays
+[12Dec2024 06:04:23.087] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/2_pillagers_2_vindicators is being run through DFU (hash cab294f2550a5e7f751c6f5fc147952df7640f2197ce1fcb69b66e3214976331), this will cause launch time delays
+[12Dec2024 06:04:23.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.146] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/illusioner is being run through DFU (hash c1ff48bd780939080260aab3f12694a00225f3d015501478d246ba1f3a8eb6c9), this will cause launch time delays
+[12Dec2024 06:04:23.175] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/evoker is being run through DFU (hash 78e66f0bc3be7af7fc330f907cceec66589cf8309309bb8594b1ce319c3518d7), this will cause launch time delays
+[12Dec2024 06:04:23.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.233] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/illusioner_evoker is being run through DFU (hash 623157c50a4fafef3da2caf63c136c493919947578547ac245864b4d0d718307), this will cause launch time delays
+[12Dec2024 06:04:23.239] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/3_witches is being run through DFU (hash a9fd267c4238c04a826cfbd20eec2eaba695d86ad8439a8d5681a208036a42b7), this will cause launch time delays
+[12Dec2024 06:04:23.247] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:23.249] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/2_pillagers is being run through DFU (hash c278ee6261da5171355ddb809fb5b90ed868ac29a7ed2c065382b74c74700332), this will cause launch time delays
+[12Dec2024 06:04:23.266] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[12Dec2024 06:04:23.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.447] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:23.499] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:23.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.628] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:23.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.731] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/vindicator is being run through DFU (hash 72b33db5407d47d9c0bc073d5274b4c7eebc45d39241d801ea57a21943c54248), this will cause launch time delays
+[12Dec2024 06:04:23.737] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/evoker_2_vindicators_pillager is being run through DFU (hash 1e6b3e93c703d3d3e9cf05d7bf6a2ff81025f0decd1be7e61dc5366f2c3e9f25), this will cause launch time delays
+[12Dec2024 06:04:23.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.868] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.880] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:23.936] [Worker-Main-16/DEBUG] [ModernFix/]: Structure stellarity:stronghold/illagers/2_vindicators is being run through DFU (hash 194e86937f7979fee2aacbc4512a8a51f518d0e07be78eb2ca77da5bf017f71f), this will cause launch time delays
+[12Dec2024 06:04:23.956] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:23.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.251] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.436] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.436] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.608] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.801] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.829] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:24.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.487] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[12Dec2024 06:04:25.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:26.454] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[12Dec2024 06:04:26.931] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[12Dec2024 06:04:26.942] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[12Dec2024 06:04:26.949] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[12Dec2024 06:04:26.950] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[12Dec2024 06:04:26.951] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[12Dec2024 06:04:26.970] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[12Dec2024 06:04:26.971] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[12Dec2024 06:04:26.971] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[12Dec2024 06:04:26.984] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[12Dec2024 06:04:26.994] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[12Dec2024 06:04:29.327] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_01
+[12Dec2024 06:04:30.539] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[12Dec2024 06:04:33.001] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[12Dec2024 06:04:35.176] [pool-10-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp]] from pos BlockPos{x=-4773, y=73, z=-229}
+[12Dec2024 06:04:36.300] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[12Dec2024 06:04:36.552] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[12Dec2024 06:04:36.552] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[12Dec2024 06:04:37.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.567] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.860] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[12Dec2024 06:04:37.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.032] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.201] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.255] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.503] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.735] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.942] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:05:14.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 06:05:14.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:06:04.190] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[12Dec2024 06:06:07.624] [Worker-Main-15/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_23 is being run through DFU (hash 1a6c53f36beab942f4138a52be1e391bc930d5549107d31beb40c5109002bd09), this will cause launch time delays
+[12Dec2024 06:06:07.713] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_04
+[12Dec2024 06:06:14.627] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[12Dec2024 06:06:14.761] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[12Dec2024 06:06:14.872] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[12Dec2024 06:06:19.475] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[12Dec2024 06:06:44.083] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[12Dec2024 06:06:44.139] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:snowy_village_horned_statue
+[12Dec2024 06:06:49.001] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[12Dec2024 06:06:49.038] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[12Dec2024 06:07:06.224] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_05 is being run through DFU (hash a70a81d21a9536ad233a7ffa18269984bf80d09c83ab2107258681f999a20798), this will cause launch time delays
+[12Dec2024 06:07:08.061] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_09 is being run through DFU (hash 8154e9fd4585fc2b2c19eb6d0e286363f929cfe24500634c762be033d96fb030), this will cause launch time delays
+[12Dec2024 06:07:14.541] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4
+[12Dec2024 06:07:18.599] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[12Dec2024 06:07:29.177] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[12Dec2024 06:07:35.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17424, l='ServerLevel[world]', x=-5213.04, y=113.00, z=-308.20] died, message: 'Farmer was slain by Zombie'
+[12Dec2024 06:07:51.612] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_11
+[12Dec2024 06:07:52.004] [Worker-Main-16/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_15 is being run through DFU (hash 645cf9ca8740ae1e17fbdcf22b39337a522e24618af82021a51134409bb37078), this will cause launch time delays
+[12Dec2024 06:07:54.617] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_05
+[12Dec2024 06:08:13.492] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[12Dec2024 06:08:30.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/18348, l='ServerLevel[world]', x=-5214.50, y=118.00, z=-286.50] died: Ivy suffocated in a wall
+[12Dec2024 06:09:01.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/18382, l='ServerLevel[world]', x=-5220.02, y=114.09, z=-302.81] died: Ivy was shot by Stray
+[12Dec2024 06:09:04.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/18383, l='ServerLevel[world]', x=-5220.32, y=113.00, z=-301.62] died: Ivy was shot by Stray
+[12Dec2024 06:09:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
+[12Dec2024 06:09:53.957] [Server thread/DEBUG] [mixin/]: Mixing spawning.maggot.ZombieClownMaggot from borninconfiguration.mixins.json into net.mcreator.borninchaosv.procedures.ZombieClownDeathTimeIsReachedProcedure
+[12Dec2024 06:09:53.958] [Server thread/DEBUG] [mixin/]: borninconfiguration.mixins.json:spawning.maggot.ZombieClownMaggot: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Dec2024 06:10:14.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 06:10:14.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:10:43.695] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[12Dec2024 06:11:12.453] [Worker-Main-16/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_6b is being run through DFU (hash 0ed78eef9cabd71eece134aae5e96636f69eb6be42dc01fdae19b23f17b6a202), this will cause launch time delays
+[12Dec2024 06:11:20.324] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[12Dec2024 06:11:21.507] [Server thread/DEBUG] [mixin/]: Mixing healtharguments.Kamikaze from borninconfiguration.mixins.json into net.mcreator.borninchaosv.procedures.SkeletonBombKoghdaSushchnostRanienaProcedure
+[12Dec2024 06:11:21.508] [Server thread/DEBUG] [mixin/]: borninconfiguration.mixins.json:healtharguments.Kamikaze: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Dec2024 06:11:26.675] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[12Dec2024 06:11:26.680] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[12Dec2024 06:11:31.218] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3b
+[12Dec2024 06:12:17.404] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[12Dec2024 06:12:45.008] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_13 is being run through DFU (hash 095d46cb310c2816937d32c79500d98da0f89d4e3099785017a96fe3067cf5b8), this will cause launch time delays
+[12Dec2024 06:12:48.624] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[12Dec2024 06:12:56.335] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06

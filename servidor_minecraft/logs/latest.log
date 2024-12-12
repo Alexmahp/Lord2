@@ -416,3 +416,184 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 05:31:13.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5091, l='ServerLevel[world]', x=-1011.50, y=124.00, z=-72.50] died: Ivy was shot by Skeleton
 [12Dec2024 05:31:59.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5189, l='ServerLevel[world]', x=-1135.28, y=120.00, z=-68.92] died: Ivy was shot by Skeleton
 [12Dec2024 05:32:04.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3006, l='ServerLevel[world]', x=-1140.83, y=103.00, z=-70.54] died: Ivy hit the ground too hard
+[12Dec2024 05:39:13.467] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo]] from pos BlockPos{x=-2299, y=72, z=53}
+[12Dec2024 05:39:16.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[12Dec2024 05:39:16.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2299, y=72, z=53} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[12Dec2024 05:39:16.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-2299, y=72, z=53}
+[12Dec2024 05:40:50.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8042, l='ServerLevel[world]', x=-2365.22, y=83.00, z=-56.81] died: Ivy was killed by xStephy08 using magic
+[12Dec2024 05:40:54.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8129, l='ServerLevel[world]', x=-2365.33, y=83.00, z=-61.18] died: Ivy was killed by xStephy08 using magic
+[12Dec2024 05:41:59.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8487, l='ServerLevel[world]', x=-2435.10, y=69.00, z=-65.10] died: Ivy was shot by Skeleton
+[12Dec2024 05:41:59.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8492, l='ServerLevel[world]', x=-2433.66, y=69.00, z=-66.00] died: Ivy was shot by Skeleton
+[12Dec2024 05:42:09.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8418, l='ServerLevel[world]', x=-2425.24, y=68.00, z=-69.00] died: Ivy was shot by Skeleton
+[12Dec2024 05:42:09.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/8478, l='ServerLevel[world]', x=-2423.06, y=70.31, z=-72.76] died: Ivy was shot by Skeleton
+[12Dec2024 05:43:29.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9060, l='ServerLevel[world]', x=-2548.50, y=68.00, z=-79.50] died: Ivy was blown up by Creeper
+[12Dec2024 05:43:48.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9137, l='ServerLevel[world]', x=-2604.92, y=64.09, z=-67.08] died: Ivy was shot by Skeleton
+[12Dec2024 05:43:54.574] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9132, l='ServerLevel[world]', x=-2611.20, y=63.94, z=-69.89] died: Ivy was shot by Skeleton
+[12Dec2024 05:44:03.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/9140, l='ServerLevel[world]', x=-2617.47, y=63.00, z=-81.30] died: Ivy was shot by Skeleton
+[12Dec2024 05:54:52.675] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry]] from pos BlockPos{x=-2955, y=70, z=-165}
+[12Dec2024 05:59:01.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/12604, l='ServerLevel[world]', x=-3508.52, y=94.00, z=-267.32] died: Ivy was shot by Pillager
+[12Dec2024 05:59:03.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/12605, l='ServerLevel[world]', x=-3508.97, y=94.00, z=-266.74] died: Ivy was shot by Pillager
+[12Dec2024 05:59:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Intruder Alert]
+[12Dec2024 06:04:06.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:06.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:06.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:06.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:06.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:07.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:08.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:09.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:10.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:10.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:10.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:10.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:11.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:15.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:16.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:17.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:18.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:18.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:18.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:20.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:21.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.409] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:22.928] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.247] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:23.266] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[12Dec2024 06:04:23.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.447] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:23.499] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:23.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.628] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:23.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.868] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:23.880] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:23.956] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:23.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.251] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.436] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.436] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.608] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.801] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[12Dec2024 06:04:24.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:24.829] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[12Dec2024 06:04:24.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:25.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:35.176] [pool-10-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp]] from pos BlockPos{x=-4773, y=73, z=-229}
+[12Dec2024 06:04:37.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.567] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:37.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.032] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.201] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.255] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.503] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.735] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:04:38.942] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 06:07:35.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17424, l='ServerLevel[world]', x=-5213.04, y=113.00, z=-308.20] died, message: 'Farmer was slain by Zombie'
+[12Dec2024 06:08:30.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/18348, l='ServerLevel[world]', x=-5214.50, y=118.00, z=-286.50] died: Ivy suffocated in a wall
+[12Dec2024 06:09:01.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/18382, l='ServerLevel[world]', x=-5220.02, y=114.09, z=-302.81] died: Ivy was shot by Stray
+[12Dec2024 06:09:04.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/18383, l='ServerLevel[world]', x=-5220.32, y=113.00, z=-301.62] died: Ivy was shot by Stray
+[12Dec2024 06:09:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
