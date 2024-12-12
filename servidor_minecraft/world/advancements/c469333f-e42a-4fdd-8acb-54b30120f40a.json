@@ -9778,6 +9778,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-12 07:00:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/building_blocks/born_in_chaos_v1/sign_post_scorched": {
     "criteria": {
       "has_planks": "2024-12-12 06:37:55 +0000"

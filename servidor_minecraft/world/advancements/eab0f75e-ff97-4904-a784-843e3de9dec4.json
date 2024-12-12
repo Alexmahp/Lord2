@@ -9559,6 +9559,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-12 06:58:27 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2024-12-12 05:59:12 +0000"
