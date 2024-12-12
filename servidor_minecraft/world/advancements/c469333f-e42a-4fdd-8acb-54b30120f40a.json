@@ -9766,5 +9766,23 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2024-12-12 06:44:40 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/giant_mushroom": {
+    "criteria": {
+      "giant_mushroom": "2024-12-12 06:43:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/born_in_chaos_v1/sign_post_scorched": {
+    "criteria": {
+      "has_planks": "2024-12-12 06:37:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
