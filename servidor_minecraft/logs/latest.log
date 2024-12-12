@@ -661,3 +661,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 07:00:57.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp left the game
 [12Dec2024 07:00:57.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/42976, l='ServerLevel[world]', x=-4936.73, y=80.00, z=-915.74] died: Ivy was killed by xStephy08 using magic
 [12Dec2024 07:00:59.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/43794, l='ServerLevel[world]', x=-4938.33, y=79.00, z=-917.81] died: Ivy was killed by xStephy08 using magic
+[12Dec2024 07:08:31.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xStephy08 lost connection: Disconnected
+[12Dec2024 07:08:31.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 left the game
