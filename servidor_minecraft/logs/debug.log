@@ -5209,3 +5209,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 05:13:44.326] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [12Dec2024 05:13:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 joined the game
 [12Dec2024 05:13:44.523] [Server thread/INFO] [Jade/]: Syncing config to xStephy08 (c469333f-e42a-4fdd-8acb-54b30120f40a)
+[12Dec2024 05:15:12.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:15:12.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:16:15.975] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[12Dec2024 05:16:15.985] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[12Dec2024 05:20:12.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:20:12.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
