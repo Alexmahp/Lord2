@@ -408,3 +408,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 05:13:44.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xStephy08[/127.26.146.2:56825] logged in with entity id 1028 at (-88.67105271676363, 138.0, -13.554093657626774)
 [12Dec2024 05:13:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 joined the game
 [12Dec2024 05:13:44.523] [Server thread/INFO] [Jade/]: Syncing config to xStephy08 (c469333f-e42a-4fdd-8acb-54b30120f40a)
+[12Dec2024 05:24:59.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2794, l='ServerLevel[world]', x=-89.50, y=127.00, z=-35.26] died: Ivy fell from a high place
+[12Dec2024 05:25:08.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2854, l='ServerLevel[world]', x=-78.65, y=127.00, z=-19.24] died: Ivy died
+[12Dec2024 05:26:25.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-202, y=88, z=-42} BlockPos{x=-203, y=86, z=-41}
+[12Dec2024 05:30:05.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2806, l='ServerLevel[world]', x=-936.50, y=82.00, z=-62.50] died: Ivy was shot by Skeleton
+[12Dec2024 05:31:05.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/4745, l='ServerLevel[world]', x=-1008.51, y=123.00, z=-76.50] died: Ivy was killed by xStephy08 using magic
+[12Dec2024 05:31:13.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5091, l='ServerLevel[world]', x=-1011.50, y=124.00, z=-72.50] died: Ivy was shot by Skeleton
+[12Dec2024 05:31:59.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5189, l='ServerLevel[world]', x=-1135.28, y=120.00, z=-68.92] died: Ivy was shot by Skeleton
+[12Dec2024 05:32:04.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3006, l='ServerLevel[world]', x=-1140.83, y=103.00, z=-70.54] died: Ivy hit the ground too hard

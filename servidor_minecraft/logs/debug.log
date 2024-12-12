@@ -5215,3 +5215,61 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Dec2024 05:16:15.985] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [12Dec2024 05:20:12.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 05:20:12.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:24:59.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2794, l='ServerLevel[world]', x=-89.50, y=127.00, z=-35.26] died: Ivy fell from a high place
+[12Dec2024 05:25:08.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2854, l='ServerLevel[world]', x=-78.65, y=127.00, z=-19.24] died: Ivy died
+[12Dec2024 05:25:12.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:25:12.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:26:16.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 05:26:16.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 05:26:16.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 05:26:16.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 05:26:16.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 05:26:16.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 05:26:16.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[12Dec2024 05:26:25.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-202, y=88, z=-42} BlockPos{x=-203, y=86, z=-41}
+[12Dec2024 05:27:01.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[12Dec2024 05:27:08.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[12Dec2024 05:27:08.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[12Dec2024 05:27:08.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[12Dec2024 05:27:08.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[12Dec2024 05:27:08.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[12Dec2024 05:28:14.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 05:28:24.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 05:28:54.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 05:28:54.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[12Dec2024 05:28:54.170] [Worker-Main-16/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Dec2024 05:28:54.170] [Worker-Main-16/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Dec2024 05:28:54.171] [Worker-Main-16/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Dec2024 05:28:54.171] [Worker-Main-16/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Dec2024 05:28:54.173] [Worker-Main-16/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Dec2024 05:28:54.174] [Worker-Main-16/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Dec2024 05:28:54.477] [Worker-Main-16/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Dec2024 05:28:54.482] [Worker-Main-16/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Dec2024 05:28:54.482] [Worker-Main-16/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Dec2024 05:28:54.488] [Worker-Main-16/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[12Dec2024 05:28:54.488] [Worker-Main-16/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[12Dec2024 05:28:55.341] [Worker-Main-16/DEBUG] [mixin/]: Mixing InfestedDiamonds from borninconfiguration.mixins.json into net.mcreator.borninchaosv.procedures.GenerationofInfectedDiamondsProProcedure
+[12Dec2024 05:28:55.341] [Worker-Main-16/DEBUG] [mixin/]: borninconfiguration.mixins.json:InfestedDiamonds: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Dec2024 05:28:55.598] [Worker-Main-15/DEBUG] [mixin/]: Mixing spawning.ThornshellSpawning from borninconfiguration.mixins.json into net.mcreator.borninchaosv.procedures.ThornshellCrabpriProcedure
+[12Dec2024 05:28:55.598] [Worker-Main-15/DEBUG] [mixin/]: borninconfiguration.mixins.json:spawning.ThornshellSpawning: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Dec2024 05:29:06.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_14
+[12Dec2024 05:29:06.841] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_7b is being run through DFU (hash 040399b93e9f805ec27d92879d128ce55a06eb8b74de068d534952c1bd955b37), this will cause launch time delays
+[12Dec2024 05:30:05.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2806, l='ServerLevel[world]', x=-936.50, y=82.00, z=-62.50] died: Ivy was shot by Skeleton
+[12Dec2024 05:30:12.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:30:12.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:30:27.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[12Dec2024 05:31:05.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/4745, l='ServerLevel[world]', x=-1008.51, y=123.00, z=-76.50] died: Ivy was killed by xStephy08 using magic
+[12Dec2024 05:31:13.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5091, l='ServerLevel[world]', x=-1011.50, y=124.00, z=-72.50] died: Ivy was shot by Skeleton
+[12Dec2024 05:31:59.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/5189, l='ServerLevel[world]', x=-1135.28, y=120.00, z=-68.92] died: Ivy was shot by Skeleton
+[12Dec2024 05:32:04.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3006, l='ServerLevel[world]', x=-1140.83, y=103.00, z=-70.54] died: Ivy hit the ground too hard
+[12Dec2024 05:32:20.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[12Dec2024 05:32:20.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[12Dec2024 05:32:20.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[12Dec2024 05:32:20.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[12Dec2024 05:32:35.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[12Dec2024 05:32:53.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[12Dec2024 05:32:53.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[12Dec2024 05:32:53.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[12Dec2024 05:32:53.887] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_5 is being run through DFU (hash 149ee8c3ee5b20593dc9bfe3399281b2cc7621ee72cfd00040b59a3cc4d749a5), this will cause launch time delays
+[12Dec2024 05:32:54.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[12Dec2024 05:33:03.933] [Server thread/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_4b is being run through DFU (hash 3332313b00090ffb490f429dfe8b62d2a8c6e7ae7de113f5e0e589e38cd05a97), this will cause launch time delays
