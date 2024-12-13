@@ -400,3 +400,80 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [13Dec2024 20:52:33.253] [Server thread/INFO] [Jade/]: Syncing config to Alexxmahp (eab0f75e-ff97-4904-a784-843e3de9dec4)
 [13Dec2024 20:52:35.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
 [13Dec2024 20:54:23.780] [Server thread/WARN] [mixin/]: Method overwrite conflict for doSomething4 in borninconfiguration.mixins.json:spawning.ZombieBarrelSpawning, previously written by com.crimsoncrips.borninconfiguration.mixins.spawning.PhantomCreeperSpawning. Skipping method.
+[13Dec2024 20:57:42.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13Dec2024 20:58:03.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6107ms or 122 ticks behind
+[13Dec2024 20:58:47.033] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player xStephy08 is c469333f-e42a-4fdd-8acb-54b30120f40a
+[13Dec2024 20:58:53.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xStephy08[/127.26.146.2:55309] logged in with entity id 4772 at (-5544.058124201821, 119.0, 5784.272438052732)
+[13Dec2024 20:58:53.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 joined the game
+[13Dec2024 20:58:53.521] [Server thread/INFO] [Jade/]: Syncing config to xStephy08 (c469333f-e42a-4fdd-8acb-54b30120f40a)
+[13Dec2024 21:00:13.155] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Colsita is b1d62af3-9bb5-4305-98bb-d8618c4aae54
+[13Dec2024 21:00:14.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5542, y=118, z=5785} BlockPos{x=-5541, y=118, z=5783}
+[13Dec2024 21:00:14.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5542, y=118, z=5785} BlockPos{x=-5541, y=118, z=5782}
+[13Dec2024 21:00:15.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5542, y=117, z=5782} BlockPos{x=-5543, y=118, z=5781}
+[13Dec2024 21:00:15.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5542, y=117, z=5782} BlockPos{x=-5542, y=118, z=5779}
+[13Dec2024 21:00:16.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5544, y=117, z=5781} BlockPos{x=-5543, y=118, z=5783}
+[13Dec2024 21:00:17.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5544, y=117, z=5779} BlockPos{x=-5544, y=117, z=5777}
+[13Dec2024 21:00:17.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5544, y=117, z=5779} BlockPos{x=-5545, y=117, z=5777}
+[13Dec2024 21:00:17.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5545, y=117, z=5778} BlockPos{x=-5546, y=117, z=5777}
+[13Dec2024 21:00:18.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5544, y=116, z=5777} BlockPos{x=-5543, y=117, z=5777}
+[13Dec2024 21:00:19.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Colsita[/127.74.102.42:39853] logged in with entity id 4972 at (-6.5, 109.0, -6.5)
+[13Dec2024 21:00:19.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colsita joined the game
+[13Dec2024 21:00:19.453] [Server thread/INFO] [Jade/]: Syncing config to Colsita (b1d62af3-9bb5-4305-98bb-d8618c4aae54)
+[13Dec2024 21:00:19.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5543, y=116, z=5777} BlockPos{x=-5542, y=117, z=5778}
+[13Dec2024 21:00:40.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> oaaaa
+[13Dec2024 21:00:42.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> hehe
+[13Dec2024 21:00:44.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> ola
+[13Dec2024 21:00:48.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexxmahp moved too quickly! -9.083720730955974,-5.039681984960055,-0.8776781795668285
+[13Dec2024 21:00:54.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Ghost Riders In The Sky]
+[13Dec2024 21:00:55.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> amiwos toy con un chango
+[13Dec2024 21:00:58.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> hahahaha
+[13Dec2024 21:01:26.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> AJSJA como así
+[13Dec2024 21:01:40.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> si real tengo un chango aqui enfrnte de mi
+[13Dec2024 21:02:17.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> a
+[13Dec2024 21:02:21.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> hahahahahahahhaa
+[13Dec2024 21:02:25.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> me lo iba a robar
+[13Dec2024 21:02:37.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> yo vi que si te lo robaste
+[13Dec2024 21:02:41.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> hahahaha
+[13Dec2024 21:02:49.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> La nueva mascota ya fue
+[13Dec2024 21:02:54.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> es como una vaca
+[13Dec2024 21:03:00.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> nimodo te casas
+[13Dec2024 21:03:34.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> le voy a poner lord
+[13Dec2024 21:03:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> se parece
+[13Dec2024 21:04:02.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> donde sea puedo hacer mi lugar?
+[13Dec2024 21:04:24.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> donde quieras jsjs
+[13Dec2024 21:04:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> teeeeenkius
+[13Dec2024 21:04:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Created team [purple]]
+[13Dec2024 21:05:04.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Updated the color for team [purple] to light_purple]
+[13Dec2024 21:05:27.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Added Colsita to team [purple]]
+[13Dec2024 21:07:07.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported xStephy08 to Alexxmahp]
+[13Dec2024 21:08:01.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> hahahahah
+[13Dec2024 21:08:07.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> toma
+[13Dec2024 21:08:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> ven
+[13Dec2024 21:08:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> estemmmmm... tendran tierrita?
+[13Dec2024 21:08:48.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> o no se pierde el animal al nadar?
+[13Dec2024 21:08:59.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> no se pierde
+[13Dec2024 21:09:02.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> espera
+[13Dec2024 21:09:03.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> ya ya
+[13Dec2024 21:09:53.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colsita is bleeding. Colsita was slain by Gorilla
+[13Dec2024 21:09:58.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> hahahahhahahahaahhahahaa
+[13Dec2024 21:10:20.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colsita is bleeding. Colsita was slain by Gorilla
+[13Dec2024 21:10:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> cria cuervos y te sacaran los ojos xd
+[13Dec2024 21:10:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> la traicion
+[13Dec2024 21:11:35.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colsita is bleeding. Colsita was slain by Alexxmahp
+[13Dec2024 21:11:43.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> asesinoooo
+[13Dec2024 21:11:49.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> :c
+[13Dec2024 21:11:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> fue sin querer
+[13Dec2024 21:14:26.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> creo que me ire mejor arriba
+[13Dec2024 21:15:53.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-322, y=81, z=-17} BlockPos{x=-323, y=80, z=-16}
+[13Dec2024 21:15:55.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-318, y=84, z=-21} BlockPos{x=-318, y=83, z=-20}
+[13Dec2024 21:15:56.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-317, y=83, z=-27} BlockPos{x=-316, y=82, z=-29}
+[13Dec2024 21:16:03.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-314, y=88, z=-9} BlockPos{x=-315, y=86, z=-9}
+[13Dec2024 21:16:09.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-317, y=86, z=-16} BlockPos{x=-317, y=85, z=-15}
+[13Dec2024 21:16:09.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-317, y=86, z=-16} BlockPos{x=-317, y=85, z=-15}
+[13Dec2024 21:16:09.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-317, y=87, z=-16} BlockPos{x=-317, y=85, z=-15}
+[13Dec2024 21:17:15.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> por que te sale sangre
+[13Dec2024 21:17:46.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> es q estabas cargando a stephy
+[13Dec2024 21:17:47.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> xd
+[13Dec2024 21:17:57.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> what
+[13Dec2024 21:18:03.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> sisi
+[13Dec2024 21:18:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> y se ahogaba en los bloques
