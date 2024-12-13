@@ -2319,6 +2319,12 @@
     },
     "done": true
   },
+  "ars_nouveau:starby_charm": {
+    "criteria": {
+      "has_starbuncle_charm": "2024-12-13 22:06:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2024-12-13 21:00:19 +0000"

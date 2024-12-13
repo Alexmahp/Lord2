@@ -6054,3 +6054,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [13Dec2024 21:58:16.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Dec2024 21:59:23.247] [Server thread/DEBUG] [mixin/]: Mixing spawning.ScarletProsecuterSpawning from borninconfiguration.mixins.json into net.mcreator.borninchaosv.procedures.CursedMarkKoghdaEffiektZakanchivaietsiaProcedure
 [13Dec2024 21:59:23.248] [Server thread/DEBUG] [mixin/]: borninconfiguration.mixins.json:spawning.ScarletProsecuterSpawning: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[13Dec2024 22:00:51.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[13Dec2024 22:03:16.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 22:03:16.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 22:06:48.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colsita has made the advancement [The Cutest Hopper]
+[13Dec2024 22:07:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> dale click derecho al piso con ese q te di
+[13Dec2024 22:08:16.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 22:08:16.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 22:09:01.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> lo dejarás asi o te faltó tierra xd?
+[13Dec2024 22:09:23.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> ah es que mi casa sera de vidrio jeje grande por eso solo la hice asi
+[13Dec2024 22:09:28.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> ire por arena
