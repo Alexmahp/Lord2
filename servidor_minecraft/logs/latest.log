@@ -761,3 +761,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [13Dec2024 23:26:27.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Gave 1 [Ominous Bone Staff Fragment] to Alexxmahp]
 [13Dec2024 23:27:07.556] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3213, y=25, z=10093} but found not block entity block Block{minecraft:water}[level=0] at location
 [13Dec2024 23:27:07.556] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-3213, y=25, z=10093}
+[13Dec2024 23:32:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Burner of Souls]
+[13Dec2024 23:34:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has completed the challenge [The Power of the Sun]
+[13Dec2024 23:35:07.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[13Dec2024 23:35:19.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Colsita is bleeding. Colsita was slain by Zombie
+[13Dec2024 23:35:23.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Colsita> :c
+[13Dec2024 23:35:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> voy
+[13Dec2024 23:35:35.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xStephy08: Teleported xStephy08 to Colsita]
+[13Dec2024 23:35:35.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[13Dec2024 23:36:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[13Dec2024 23:38:19.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to lordxhadesfn]
+[13Dec2024 23:38:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[13Dec2024 23:38:42.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Always Watching]

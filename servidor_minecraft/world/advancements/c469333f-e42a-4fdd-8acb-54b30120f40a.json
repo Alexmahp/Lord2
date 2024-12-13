@@ -1916,6 +1916,7 @@
       "minecraft:dripstone_caves": "2024-11-20 22:30:40 +0000",
       "minecraft:snowy_taiga": "2024-11-21 00:56:36 +0000",
       "minecraft:swamp": "2024-12-12 06:22:41 +0000",
+      "minecraft:grove": "2024-12-13 23:31:11 +0000",
       "minecraft:jagged_peaks": "2024-11-24 03:00:15 +0000",
       "minecraft:cold_ocean": "2024-12-08 08:30:25 +0000",
       "minecraft:forest": "2024-11-20 22:28:56 +0000",
@@ -9898,6 +9899,12 @@
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2024-12-13 22:17:29 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulpyre": {
+    "criteria": {
+      "requirement": "2024-12-13 23:32:15 +0000"
     },
     "done": true
   },
