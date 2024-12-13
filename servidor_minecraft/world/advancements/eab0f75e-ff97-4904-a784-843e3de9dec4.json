@@ -1721,6 +1721,7 @@
       "mystic_grove": "2024-12-10 02:14:04 +0000",
       "cold_desert": "2024-11-21 01:23:52 +0000",
       "old_growth_woodland": "2024-11-18 05:30:20 +0000",
+      "maple_woods": "2024-12-13 07:06:03 +0000",
       "crystalline_chasm": "2024-11-21 03:46:35 +0000",
       "withered_abyss": "2024-12-02 05:11:55 +0000",
       "field": "2024-11-20 07:30:41 +0000",
@@ -1754,6 +1755,7 @@
       "undergrowth": "2024-12-02 05:05:19 +0000",
       "rainforest": "2024-11-18 05:30:09 +0000",
       "snowy_maple_woods": "2024-11-21 01:21:35 +0000",
+      "crag": "2024-12-13 07:06:47 +0000",
       "ominous_woods": "2024-11-20 07:30:28 +0000"
     },
     "done": false
@@ -2020,6 +2022,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-11-24 03:00:47 +0000",
       "minecraft:taiga": "2024-11-21 00:37:28 +0000",
+      "minecraft:deep_ocean": "2024-12-13 07:14:17 +0000",
       "minecraft:frozen_river": "2024-11-20 07:30:21 +0000",
       "minecraft:cherry_grove": "2024-12-02 23:56:24 +0000",
       "minecraft:sunflower_plains": "2024-12-02 23:56:19 +0000",
@@ -3429,6 +3432,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2024-12-13 07:15:57 +0000",
       "pillager_outpost": "2024-12-12 05:59:12 +0000",
       "illager_camp": "2024-11-18 23:45:17 +0000",
       "mansion": "2024-11-24 02:54:49 +0000"
@@ -5611,6 +5615,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_mangrove": "2024-12-13 07:23:05 +0000",
       "in_outpost_desert": "2024-11-23 06:42:31 +0000",
       "in_outpost_jungle": "2024-11-24 04:34:58 +0000",
       "in_outpost_snowy": "2024-11-21 01:51:56 +0000",
@@ -9559,15 +9564,75 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-12-12 05:59:12 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2024-12-12 06:58:27 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_pillager_outpost": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "minecraft:pillager_outpost": "2024-12-12 05:59:12 +0000"
+      "crying_obsidian": "2024-12-13 06:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-13 06:00:47 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:whisperwind": {
+    "criteria": {
+      "requirement": "2024-12-13 06:22:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2024-12-13 06:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-13 06:50:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2024-12-13 06:51:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2024-12-13 06:56:32 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2024-12-13 07:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-12-13 07:16:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-13 07:35:30 +0000"
     },
     "done": true
   },
