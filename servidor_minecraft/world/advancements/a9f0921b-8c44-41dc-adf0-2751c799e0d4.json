@@ -2770,6 +2770,7 @@
       "minecraft:stony_shore": "2024-11-24 02:35:08 +0000",
       "minecraft:dripstone_caves": "2024-11-19 00:01:18 +0000",
       "minecraft:snowy_taiga": "2024-11-21 00:48:24 +0000",
+      "minecraft:grove": "2024-12-13 22:48:47 +0000",
       "minecraft:forest": "2024-11-19 23:47:08 +0000",
       "minecraft:lush_caves": "2024-12-03 00:48:28 +0000",
       "minecraft:deep_cold_ocean": "2024-11-21 02:29:01 +0000",
@@ -7919,6 +7920,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-12 23:32:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-12-12 23:32:31 +0000"
@@ -7928,12 +7935,6 @@
   "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-12 23:32:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2024-12-12 23:32:29 +0000"
     },
     "done": true
   },
@@ -7952,6 +7953,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-12 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 22:49:51 +0000"
     },
     "done": true
   },
