@@ -9865,6 +9865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-14 02:26:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2024-12-13 21:58:56 +0000"
@@ -9892,6 +9898,12 @@
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2024-12-14 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-14 02:26:38 +0000"
     },
     "done": true
   },

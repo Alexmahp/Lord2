@@ -11392,3 +11392,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Dec2024 02:22:12.224] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:35.0d,Modifiers:[{Amount:-0.028698704579503548d,Name:"Random spawn bonus",Operation:1,UUID:[I;-1344063127,497372074,-1321111604,1835807580]}],Name:"minecraft:generic.follow_range"},{Base:0.6448905384213315d,Name:"minecraft:horse.jump_strength"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 260
 [14Dec2024 02:24:04.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 02:24:04.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 02:26:35.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lordxhadesfn lost connection: Disconnected
+[14Dec2024 02:26:35.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lordxhadesfn left the game
+[14Dec2024 02:27:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 02:28:30.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[14Dec2024 02:28:30.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[14Dec2024 02:28:38.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[14Dec2024 02:28:54.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 02:29:04.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 02:29:04.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 02:34:04.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 02:34:04.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
