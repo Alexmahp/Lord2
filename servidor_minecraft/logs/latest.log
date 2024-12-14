@@ -348,3 +348,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Dec2024 04:03:09.523] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9931, y=90, z=-5707} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
 [14Dec2024 04:03:09.524] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-9931, y=90, z=-5707}
 [14Dec2024 04:03:48.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/263343, l='ServerLevel[world]', x=-9812.82, y=79.00, z=-5677.93] died: Ivy was slain by Alexxmahp
+[14Dec2024 04:12:32.306] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-10212, y=24, z=-5524} but found not block entity block Block{minecraft:water}[level=0] at location
+[14Dec2024 04:12:32.306] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-10212, y=24, z=-5524}
+[14Dec2024 04:12:57.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 04:14:45.358] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/266401, l='ServerLevel[world]', x=-10199.50, y=71.94, z=-5192.66] died, message: 'Nitwit was slain by Alexxmahp'
+[14Dec2024 04:15:37.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Dec2024 04:17:01.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> xd
