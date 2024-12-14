@@ -1720,6 +1720,7 @@
       "marsh": "2024-12-14 00:19:37 +0000",
       "jade_cliffs": "2024-11-24 04:47:27 +0000",
       "clover_patch": "2024-11-20 01:56:09 +0000",
+      "wetland": "2024-12-14 04:01:25 +0000",
       "mystic_grove": "2024-12-10 02:16:51 +0000",
       "cold_desert": "2024-11-21 01:23:53 +0000",
       "old_growth_woodland": "2024-11-19 06:49:06 +0000",
@@ -9519,6 +9520,7 @@
   },
   "repurposed_structures:witch_huts": {
     "criteria": {
+      "in_witch_hut_taiga": "2024-12-14 03:57:57 +0000",
       "in_witch_hut_giant_tree_taiga": "2024-12-10 02:39:49 +0000"
     },
     "done": false
@@ -9877,6 +9879,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2024-12-14 04:03:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dye_pink_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-13 21:58:56 +0000"
@@ -9922,6 +9930,12 @@
   "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
     "criteria": {
       "has_flower": "2024-12-14 00:15:04 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:twisted_blade": {
+    "criteria": {
+      "requirement": "2024-12-14 03:52:36 +0000"
     },
     "done": true
   },
