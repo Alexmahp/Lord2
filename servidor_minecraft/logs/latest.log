@@ -316,3 +316,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Dec2024 02:43:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp left the game
 [14Dec2024 03:04:06.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [14Dec2024 03:04:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[14Dec2024 03:26:39.020] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Alexxmahp is eab0f75e-ff97-4904-a784-843e3de9dec4
+[14Dec2024 03:26:45.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexxmahp[/127.79.158.15:37363] logged in with entity id 243708 at (-86.45597952408622, 138.0, -16.945273455305482)
+[14Dec2024 03:26:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp joined the game
+[14Dec2024 03:26:45.229] [Server thread/INFO] [Jade/]: Syncing config to Alexxmahp (eab0f75e-ff97-4904-a784-843e3de9dec4)
