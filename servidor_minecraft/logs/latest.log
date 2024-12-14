@@ -320,3 +320,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Dec2024 03:26:45.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexxmahp[/127.79.158.15:37363] logged in with entity id 243708 at (-86.45597952408622, 138.0, -16.945273455305482)
 [14Dec2024 03:26:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp joined the game
 [14Dec2024 03:26:45.229] [Server thread/INFO] [Jade/]: Syncing config to Alexxmahp (eab0f75e-ff97-4904-a784-843e3de9dec4)
+[14Dec2024 03:32:05.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Gave 1 [Nightmare Stalker Skull] to Alexxmahp]
+[14Dec2024 03:36:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
