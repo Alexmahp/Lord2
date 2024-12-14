@@ -9889,6 +9889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-14 02:12:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink_dye": {
     "criteria": {
       "forge:dyes/pink": "2024-12-13 21:58:56 +0000"
