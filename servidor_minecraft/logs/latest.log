@@ -312,3 +312,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Dec2024 02:26:35.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lordxhadesfn left the game
 [14Dec2024 02:27:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
 [14Dec2024 02:28:54.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 02:43:34.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexxmahp lost connection: Disconnected
+[14Dec2024 02:43:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp left the game
