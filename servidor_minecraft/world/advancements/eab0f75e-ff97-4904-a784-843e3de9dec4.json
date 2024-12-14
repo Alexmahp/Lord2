@@ -1717,6 +1717,7 @@
       "floodplain": "2024-11-23 07:36:27 +0000",
       "lush_savanna": "2024-11-23 07:11:18 +0000",
       "highland": "2024-11-19 00:08:01 +0000",
+      "marsh": "2024-12-14 00:19:40 +0000",
       "jade_cliffs": "2024-12-04 07:06:42 +0000",
       "clover_patch": "2024-11-20 23:17:41 +0000",
       "mystic_grove": "2024-12-10 02:14:04 +0000",
@@ -3440,6 +3441,7 @@
     "criteria": {
       "swamp_village": "2024-12-13 07:15:57 +0000",
       "pillager_outpost": "2024-12-12 05:59:12 +0000",
+      "swamp_hut": "2024-12-14 00:20:08 +0000",
       "illager_camp": "2024-11-18 23:45:17 +0000",
       "mangrove_witch_hut": "2024-12-14 00:02:42 +0000",
       "mansion": "2024-11-24 02:54:49 +0000"
@@ -5519,6 +5521,7 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_icy": "2024-12-13 23:34:32 +0000",
+      "in_pyramid_ocean": "2024-12-14 00:43:03 +0000",
       "in_pyramid_jungle": "2024-11-21 08:07:32 +0000",
       "in_pyramid_badlands": "2024-12-02 08:08:01 +0000",
       "in_pyramid_snowy": "2024-11-21 01:26:49 +0000",
@@ -9654,6 +9657,12 @@
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2024-12-13 21:00:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-12-14 00:22:27 +0000"
     },
     "done": true
   },

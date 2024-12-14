@@ -9321,3 +9321,374 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Dec2024 00:22:18.040] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
 [14Dec2024 00:22:40.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lordxhadesfn is bleeding. lordxhadesfn was slain by Corpse Fly
 [14Dec2024 00:22:41.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to lordxhadesfn]
+[14Dec2024 00:23:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lordxhadesfn is bleeding. lordxhadesfn was killed by Alexxmahp using magic
+[14Dec2024 00:23:44.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported lordxhadesfn to Alexxmahp]
+[14Dec2024 00:23:49.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:23:49.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:23:53.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lordxhadesfn> zzzz
+[14Dec2024 00:24:00.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 00:24:17.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[14Dec2024 00:24:17.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[14Dec2024 00:24:17.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[14Dec2024 00:24:17.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[14Dec2024 00:24:17.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[14Dec2024 00:24:17.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[14Dec2024 00:25:17.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[14Dec2024 00:25:17.026] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[14Dec2024 00:25:17.050] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[14Dec2024 00:25:17.071] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[14Dec2024 00:25:17.089] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[14Dec2024 00:25:17.126] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[14Dec2024 00:25:17.155] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[14Dec2024 00:25:17.161] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_3 is being run through DFU (hash 8bc9932226adcc9f828b30bf861fd128616101a3cf3a24f4549a7583f0b88dfb), this will cause launch time delays
+[14Dec2024 00:25:17.238] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_2 is being run through DFU (hash 49d608108637cabd9be898562076920feec7ea873c9a8556f11c2f6c51104cf1), this will cause launch time delays
+[14Dec2024 00:25:17.246] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_4 is being run through DFU (hash 7f2025ab1d354267130f1a96c309e6ab7d6afe06ea925aaa7836305d25745969), this will cause launch time delays
+[14Dec2024 00:25:17.264] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_1 is being run through DFU (hash 838e46056670e5e4d0733967cc594841e9e552d6ffd62c9a752a5326e0169017), this will cause launch time delays
+[14Dec2024 00:25:17.275] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_0 is being run through DFU (hash 56399e8a7ad4cb5f3492fcdba2c3ed9f13aa33d4f675142c5ec2160b7ba36988), this will cause launch time delays
+[14Dec2024 00:25:17.292] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_pillager_0 is being run through DFU (hash 4f6418d8793538812f40b3cad48d103447de9054e0e7920d296a2a60cba50fe8), this will cause launch time delays
+[14Dec2024 00:25:17.318] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_1 is being run through DFU (hash aab7a31f17e08b142bdbd3cd6cd6527bfe6694a16e52232355ec3bd07f61e701), this will cause launch time delays
+[14Dec2024 00:25:17.352] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_witch_2 is being run through DFU (hash 0b6e8fb951eb52bd628ece6dac3281894833c4fc6d12d1f3c35bb4171a3c8bfd), this will cause launch time delays
+[14Dec2024 00:25:17.367] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_vindicator_1 is being run through DFU (hash 1129a2cdccc6062b097dca606c97e7dba621e451413d3846830d33de61225eab), this will cause launch time delays
+[14Dec2024 00:25:52.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/142772, l='ServerLevel[world]', x=-4686.12, y=62.00, z=6874.59] died, message: 'Unemployed suffocated in a wall'
+[14Dec2024 00:26:01.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/142773, l='ServerLevel[world]', x=-4666.36, y=60.00, z=6870.47] died, message: 'Unemployed suffocated in a wall'
+[14Dec2024 00:26:07.328] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_14
+[14Dec2024 00:26:13.326] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4b
+[14Dec2024 00:26:21.308] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[14Dec2024 00:26:21.430] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[14Dec2024 00:28:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported lordxhadesfn to Alexxmahp]
+[14Dec2024 00:28:15.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lordxhadesfn has made the advancement [Deep in the Dark Woodland]
+[14Dec2024 00:28:17.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> a
+[14Dec2024 00:28:27.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[14Dec2024 00:28:27.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[14Dec2024 00:28:29.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Alexxmahp> xd
+[14Dec2024 00:28:49.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:28:49.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:33:47.457] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[14Dec2024 00:33:48.599] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[14Dec2024 00:33:48.674] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[14Dec2024 00:33:49.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:33:49.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:33:51.823] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[14Dec2024 00:33:51.824] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[14Dec2024 00:33:51.858] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[14Dec2024 00:33:52.055] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[14Dec2024 00:33:58.281] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[14Dec2024 00:34:33.350] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[14Dec2024 00:34:48.076] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_10
+[14Dec2024 00:34:49.086] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[14Dec2024 00:34:49.095] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[14Dec2024 00:34:49.101] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[14Dec2024 00:34:50.378] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[14Dec2024 00:34:52.017] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[14Dec2024 00:34:52.145] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[14Dec2024 00:34:53.419] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[14Dec2024 00:34:53.561] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[14Dec2024 00:34:53.564] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[14Dec2024 00:34:53.567] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[14Dec2024 00:34:53.570] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[14Dec2024 00:34:53.572] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[14Dec2024 00:34:53.575] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[14Dec2024 00:34:56.617] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_02
+[14Dec2024 00:35:01.088] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[14Dec2024 00:35:01.091] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[14Dec2024 00:35:01.097] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[14Dec2024 00:35:01.098] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[14Dec2024 00:35:01.120] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[14Dec2024 00:35:01.130] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_1
+[14Dec2024 00:35:01.138] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[14Dec2024 00:35:01.143] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[14Dec2024 00:35:01.150] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[14Dec2024 00:35:01.196] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[14Dec2024 00:35:02.441] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[14Dec2024 00:35:02.745] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[14Dec2024 00:35:02.772] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[14Dec2024 00:35:02.790] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[14Dec2024 00:35:02.843] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[14Dec2024 00:35:02.855] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[14Dec2024 00:35:02.915] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[14Dec2024 00:35:02.927] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[14Dec2024 00:35:02.960] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[14Dec2024 00:35:02.968] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[14Dec2024 00:35:02.973] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[14Dec2024 00:35:03.023] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[14Dec2024 00:35:03.139] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[14Dec2024 00:35:03.152] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[14Dec2024 00:35:03.158] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[14Dec2024 00:35:03.180] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[14Dec2024 00:35:03.184] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[14Dec2024 00:35:03.272] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[14Dec2024 00:35:03.291] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[14Dec2024 00:35:03.293] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[14Dec2024 00:35:03.298] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[14Dec2024 00:35:09.494] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[14Dec2024 00:35:09.497] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[14Dec2024 00:35:09.518] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[14Dec2024 00:35:21.955] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[14Dec2024 00:35:50.133] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[14Dec2024 00:35:50.178] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[14Dec2024 00:35:50.222] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[14Dec2024 00:35:50.398] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[14Dec2024 00:35:50.790] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[14Dec2024 00:35:51.744] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[14Dec2024 00:35:51.773] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[14Dec2024 00:35:51.806] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[14Dec2024 00:35:51.810] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[14Dec2024 00:35:51.819] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[14Dec2024 00:35:51.821] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[14Dec2024 00:35:51.830] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[14Dec2024 00:35:51.846] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[14Dec2024 00:35:51.854] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[14Dec2024 00:35:51.855] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[14Dec2024 00:35:51.869] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[14Dec2024 00:35:51.885] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[14Dec2024 00:35:51.900] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[14Dec2024 00:35:57.656] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[14Dec2024 00:36:04.563] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_defender
+[14Dec2024 00:36:04.624] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_stalker
+[14Dec2024 00:36:04.682] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_hunter
+[14Dec2024 00:36:07.715] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_03
+[14Dec2024 00:36:10.707] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[14Dec2024 00:36:12.008] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
+[14Dec2024 00:36:12.012] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[14Dec2024 00:36:12.565] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:witch_villa/backyard/witch_villa_backyard_1
+[14Dec2024 00:36:13.555] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[14Dec2024 00:36:16.301] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[14Dec2024 00:36:32.186] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[14Dec2024 00:36:32.872] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[14Dec2024 00:36:33.398] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_13
+[14Dec2024 00:36:35.350] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[14Dec2024 00:36:44.602] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[14Dec2024 00:36:49.782] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[14Dec2024 00:37:26.437] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[14Dec2024 00:37:26.441] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[14Dec2024 00:37:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xStephy08> pero si eso es lo mas facil xddd
+[14Dec2024 00:38:07.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[14Dec2024 00:38:49.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:38:49.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:39:01.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[14Dec2024 00:39:27.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[14Dec2024 00:39:27.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexxmahp moved too quickly! -4.890447415787094,-9.902031737902107,-0.20389614267514844
+[14Dec2024 00:39:40.603] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[14Dec2024 00:39:40.610] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[14Dec2024 00:39:40.619] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[14Dec2024 00:39:43.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[14Dec2024 00:39:43.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[14Dec2024 00:39:47.235] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[14Dec2024 00:39:47.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[14Dec2024 00:39:49.069] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[14Dec2024 00:40:02.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[14Dec2024 00:40:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 00:40:27.296] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[14Dec2024 00:40:27.572] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[14Dec2024 00:40:30.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[14Dec2024 00:40:30.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[14Dec2024 00:40:30.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[14Dec2024 00:40:30.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[14Dec2024 00:40:30.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[14Dec2024 00:40:30.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[14Dec2024 00:40:30.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[14Dec2024 00:40:30.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[14Dec2024 00:40:30.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[14Dec2024 00:40:30.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[14Dec2024 00:40:30.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[14Dec2024 00:40:30.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[14Dec2024 00:40:30.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[14Dec2024 00:40:30.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[14Dec2024 00:40:30.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[14Dec2024 00:40:30.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[14Dec2024 00:40:30.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[14Dec2024 00:40:30.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[14Dec2024 00:40:30.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[14Dec2024 00:40:30.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[14Dec2024 00:40:30.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[14Dec2024 00:40:30.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[14Dec2024 00:40:30.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[14Dec2024 00:40:30.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[14Dec2024 00:40:30.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[14Dec2024 00:40:30.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[14Dec2024 00:40:30.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[14Dec2024 00:40:35.932] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[14Dec2024 00:40:35.971] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[14Dec2024 00:40:39.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[14Dec2024 00:40:39.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0
+[14Dec2024 00:40:39.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[14Dec2024 00:40:39.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[14Dec2024 00:40:39.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0
+[14Dec2024 00:40:39.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[14Dec2024 00:40:39.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1
+[14Dec2024 00:40:39.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_4
+[14Dec2024 00:40:39.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_7
+[14Dec2024 00:40:39.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_5
+[14Dec2024 00:40:39.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_6
+[14Dec2024 00:41:01.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[14Dec2024 00:41:10.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 00:42:15.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:graveyard
+[14Dec2024 00:42:33.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[14Dec2024 00:42:37.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[14Dec2024 00:42:40.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[14Dec2024 00:42:40.980] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[14Dec2024 00:42:40.990] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[14Dec2024 00:42:40.997] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[14Dec2024 00:42:43.347] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[14Dec2024 00:42:43.353] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[14Dec2024 00:42:51.917] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[14Dec2024 00:42:53.693] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[14Dec2024 00:42:56.103] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4851, y=10, z=9302} but found not block entity block Block{minecraft:water}[level=8] at location
+[14Dec2024 00:42:56.104] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-4851, y=10, z=9302}
+[14Dec2024 00:43:06.396] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[14Dec2024 00:43:09.015] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[14Dec2024 00:43:10.609] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:graveyard
+[14Dec2024 00:43:10.664] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_22
+[14Dec2024 00:43:10.739] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[14Dec2024 00:43:10.852] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[14Dec2024 00:43:10.858] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[14Dec2024 00:43:10.867] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[14Dec2024 00:43:10.881] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[14Dec2024 00:43:10.904] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[14Dec2024 00:43:10.911] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[14Dec2024 00:43:11.207] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[14Dec2024 00:43:12.583] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[14Dec2024 00:43:12.664] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[14Dec2024 00:43:12.667] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[14Dec2024 00:43:12.670] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[14Dec2024 00:43:12.671] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[14Dec2024 00:43:12.672] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[14Dec2024 00:43:12.673] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[14Dec2024 00:43:12.675] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[14Dec2024 00:43:12.678] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[14Dec2024 00:43:12.680] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[14Dec2024 00:43:12.681] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[14Dec2024 00:43:12.683] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[14Dec2024 00:43:12.686] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[14Dec2024 00:43:12.687] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[14Dec2024 00:43:12.688] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[14Dec2024 00:43:12.689] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[14Dec2024 00:43:12.690] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[14Dec2024 00:43:12.693] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[14Dec2024 00:43:12.697] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[14Dec2024 00:43:12.699] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[14Dec2024 00:43:12.701] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[14Dec2024 00:43:12.703] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[14Dec2024 00:43:12.712] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[14Dec2024 00:43:12.714] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[14Dec2024 00:43:12.716] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[14Dec2024 00:43:12.724] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[14Dec2024 00:43:12.729] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[14Dec2024 00:43:12.732] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[14Dec2024 00:43:12.733] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[14Dec2024 00:43:12.734] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[14Dec2024 00:43:12.741] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[14Dec2024 00:43:12.808] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[14Dec2024 00:43:19.400] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[14Dec2024 00:43:32.265] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[14Dec2024 00:43:34.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 00:43:41.491] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[14Dec2024 00:43:49.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:43:49.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:44:04.236] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[14Dec2024 00:44:08.215] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[14Dec2024 00:44:13.786] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:tower
+[14Dec2024 00:44:18.040] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2
+[14Dec2024 00:44:18.258] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_10
+[14Dec2024 00:44:28.562] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[14Dec2024 00:44:47.885] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[14Dec2024 00:44:47.889] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[14Dec2024 00:44:47.894] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[14Dec2024 00:44:47.898] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[14Dec2024 00:44:47.902] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[14Dec2024 00:44:47.906] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[14Dec2024 00:45:37.612] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[14Dec2024 00:45:37.645] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[14Dec2024 00:45:37.832] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_16
+[14Dec2024 00:45:38.686] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[14Dec2024 00:45:38.722] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[14Dec2024 00:45:39.305] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[14Dec2024 00:45:48.339] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[14Dec2024 00:45:49.492] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[14Dec2024 00:45:58.536] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[14Dec2024 00:45:58.711] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[14Dec2024 00:46:10.741] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[14Dec2024 00:46:24.397] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[14Dec2024 00:46:24.445] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[14Dec2024 00:46:24.478] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[14Dec2024 00:46:24.514] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[14Dec2024 00:46:24.525] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[14Dec2024 00:46:24.531] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[14Dec2024 00:46:24.533] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[14Dec2024 00:46:24.542] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[14Dec2024 00:46:24.554] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[14Dec2024 00:46:24.559] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_2
+[14Dec2024 00:46:24.560] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_4
+[14Dec2024 00:46:24.563] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_pillager_0
+[14Dec2024 00:46:24.564] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_0
+[14Dec2024 00:46:24.569] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_3
+[14Dec2024 00:46:24.570] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_field_1
+[14Dec2024 00:46:24.578] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_vindicator_1
+[14Dec2024 00:46:24.584] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_1
+[14Dec2024 00:46:24.599] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_witch_2
+[14Dec2024 00:46:40.094] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[14Dec2024 00:46:40.272] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[14Dec2024 00:46:44.168] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[14Dec2024 00:47:37.906] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[14Dec2024 00:47:37.942] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[14Dec2024 00:47:38.218] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_07
+[14Dec2024 00:47:53.436] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[14Dec2024 00:47:54.803] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[14Dec2024 00:48:05.460] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[14Dec2024 00:48:16.271] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[14Dec2024 00:48:21.621] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_06
+[14Dec2024 00:48:32.073] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[14Dec2024 00:48:33.012] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[14Dec2024 00:48:37.310] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[14Dec2024 00:48:48.036] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8b
+[14Dec2024 00:48:49.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:48:49.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:48:54.990] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[14Dec2024 00:48:56.035] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[14Dec2024 00:49:01.639] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[14Dec2024 00:49:04.042] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_02
+[14Dec2024 00:49:08.921] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[14Dec2024 00:49:20.541] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[14Dec2024 00:49:25.812] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[14Dec2024 00:49:25.827] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[14Dec2024 00:49:26.962] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_13
+[14Dec2024 00:49:36.291] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[14Dec2024 00:49:36.936] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[14Dec2024 00:49:36.968] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[14Dec2024 00:49:38.624] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[14Dec2024 00:49:41.923] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[14Dec2024 00:49:47.015] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_18
+[14Dec2024 00:49:49.679] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4b
+[14Dec2024 00:50:05.740] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_01
+[14Dec2024 00:50:13.016] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[14Dec2024 00:50:13.074] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_05
+[14Dec2024 00:50:15.049] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[14Dec2024 00:50:15.262] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[14Dec2024 00:50:16.895] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[14Dec2024 00:50:25.293] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_10
+[14Dec2024 00:50:27.723] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[14Dec2024 00:50:28.558] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[14Dec2024 00:50:28.583] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[14Dec2024 00:50:28.584] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[14Dec2024 00:50:28.586] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[14Dec2024 00:50:28.663] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[14Dec2024 00:50:28.681] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[14Dec2024 00:50:28.973] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[14Dec2024 00:50:50.393] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[14Dec2024 00:50:50.397] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[14Dec2024 00:51:39.271] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[14Dec2024 00:51:46.610] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[14Dec2024 00:51:50.350] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[14Dec2024 00:51:50.535] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[14Dec2024 00:52:05.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 00:52:17.371] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[14Dec2024 00:52:17.372] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[14Dec2024 00:52:17.372] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[14Dec2024 00:52:17.373] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[14Dec2024 00:52:17.381] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[14Dec2024 00:52:17.387] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[14Dec2024 00:52:17.387] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[14Dec2024 00:52:17.399] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[14Dec2024 00:52:17.436] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[14Dec2024 00:52:39.867] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[14Dec2024 00:52:50.168] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:witch_villa/backyard/witch_villa_backyard_1

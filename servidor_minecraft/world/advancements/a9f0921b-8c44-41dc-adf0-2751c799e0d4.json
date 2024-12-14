@@ -2228,6 +2228,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-14 00:38:57 +0000",
       "chicken": "2024-11-24 02:41:30 +0000",
       "chorus_fruit": "2024-12-03 01:49:31 +0000",
       "cooked_beef": "2024-12-03 01:34:13 +0000",
@@ -3801,7 +3802,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2024-11-18 23:45:20 +0000"
+      "illager_camp": "2024-11-18 23:45:20 +0000",
+      "mansion": "2024-12-14 00:28:15 +0000"
     },
     "done": false
   },
@@ -7964,6 +7966,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-14 00:00:42 +0000"
@@ -7976,9 +7996,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2024-12-14 00:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-14 00:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2024-12-14 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
     },
     "done": true
   },
@@ -7994,6 +8044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-12-14 00:00:42 +0000"
@@ -8003,6 +8059,12 @@
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-14 00:32:18 +0000"
     },
     "done": true
   },
@@ -8018,9 +8080,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-14 00:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
+    "criteria": {
+      "forge:dyes/light_blue": "2024-12-14 00:32:18 +0000"
     },
     "done": true
   },
@@ -8030,15 +8104,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-14 00:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-14 00:00:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-14 00:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-14 00:34:58 +0000"
     },
     "done": true
   },
@@ -8063,6 +8173,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2024-12-14 00:32:18 +0000"
     },
     "done": true
   },
