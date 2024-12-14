@@ -1732,6 +1732,7 @@
       "visceral_heap": "2024-11-24 05:33:55 +0000",
       "volcano": "2024-11-19 00:37:29 +0000",
       "rocky_rainforest": "2024-11-18 21:54:41 +0000",
+      "pasture": "2024-12-13 23:47:54 +0000",
       "volcanic_plains": "2024-11-19 00:43:39 +0000",
       "lavender_field": "2024-12-02 23:57:22 +0000",
       "grassland": "2024-11-18 21:59:43 +0000",
@@ -7962,9 +7963,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2024-12-13 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "forge:dyes/black": "2024-12-13 23:50:11 +0000"
     },
     "done": true
   },
