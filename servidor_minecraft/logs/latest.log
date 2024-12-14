@@ -322,3 +322,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Dec2024 03:26:45.229] [Server thread/INFO] [Jade/]: Syncing config to Alexxmahp (eab0f75e-ff97-4904-a784-843e3de9dec4)
 [14Dec2024 03:32:05.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Gave 1 [Nightmare Stalker Skull] to Alexxmahp]
 [14Dec2024 03:36:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 03:43:23.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Dec2024 03:45:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp is bleeding. Alexxmahp was slain by Vindicator
+[14Dec2024 03:45:43.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp is bleeding. Alexxmahp was shot by Stray
+[14Dec2024 03:46:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp is bleeding. Alexxmahp was shot by Skeleton
