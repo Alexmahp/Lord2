@@ -9897,6 +9897,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_flower": "2024-12-14 00:15:04 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2024-12-13 22:17:29 +0000"
