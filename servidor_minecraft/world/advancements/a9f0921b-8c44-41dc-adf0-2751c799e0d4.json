@@ -2767,6 +2767,7 @@
       "minecraft:beach": "2024-11-23 06:04:51 +0000",
       "minecraft:stony_peaks": "2024-11-20 00:04:14 +0000",
       "minecraft:dark_forest": "2024-11-21 04:24:11 +0000",
+      "minecraft:sparse_jungle": "2024-12-14 00:59:39 +0000",
       "minecraft:river": "2024-11-18 22:10:26 +0000",
       "minecraft:lukewarm_ocean": "2024-12-02 23:27:11 +0000",
       "minecraft:snowy_plains": "2024-11-21 00:48:28 +0000",
@@ -8158,9 +8159,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2024-12-14 00:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2024-12-13 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-14 01:15:17 +0000"
     },
     "done": true
   },

@@ -5628,6 +5628,7 @@
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_mangrove": "2024-12-13 07:23:05 +0000",
+      "in_outpost_taiga": "2024-12-14 00:54:28 +0000",
       "in_outpost_desert": "2024-11-23 06:42:31 +0000",
       "in_outpost_jungle": "2024-11-24 04:34:58 +0000",
       "in_outpost_snowy": "2024-11-21 01:51:56 +0000",
@@ -7025,7 +7026,8 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_desert": "2024-12-02 07:40:01 +0000",
-      "in_mineshaft_end": "2024-12-03 01:53:46 +0000"
+      "in_mineshaft_end": "2024-12-03 01:53:46 +0000",
+      "in_mineshaft_taiga": "2024-12-14 00:53:42 +0000"
     },
     "done": false
   },
@@ -9645,6 +9647,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-13 07:35:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2024-12-14 00:58:53 +0000"
     },
     "done": true
   },

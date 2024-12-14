@@ -9692,3 +9692,200 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Dec2024 00:52:17.436] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
 [14Dec2024 00:52:39.867] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
 [14Dec2024 00:52:50.168] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:witch_villa/backyard/witch_villa_backyard_1
+[14Dec2024 00:53:34.582] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_04
+[14Dec2024 00:53:36.732] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[14Dec2024 00:53:36.733] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[14Dec2024 00:53:36.734] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[14Dec2024 00:53:37.026] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[14Dec2024 00:53:37.045] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[14Dec2024 00:53:49.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:53:49.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:53:52.187] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_14
+[14Dec2024 00:54:00.927] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[14Dec2024 00:54:03.229] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[14Dec2024 00:54:22.760] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[14Dec2024 00:54:24.369] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[14Dec2024 00:54:27.483] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_05
+[14Dec2024 00:54:42.912] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_13
+[14Dec2024 00:54:43.420] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9
+[14Dec2024 00:55:06.088] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[14Dec2024 00:55:42.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xStephy08 has made the advancement [Ol' Betsy]
+[14Dec2024 00:56:16.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lordxhadesfn has reached the goal [Horror of the Depths]
+[14Dec2024 00:57:26.791] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[14Dec2024 00:58:37.893] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[14Dec2024 00:58:38.745] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[14Dec2024 00:58:41.368] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[14Dec2024 00:58:41.371] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[14Dec2024 00:58:44.863] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[14Dec2024 00:58:44.866] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[14Dec2024 00:58:44.867] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[14Dec2024 00:58:44.869] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[14Dec2024 00:58:44.885] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[14Dec2024 00:58:44.894] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[14Dec2024 00:58:44.910] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[14Dec2024 00:58:44.921] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[14Dec2024 00:58:44.925] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[14Dec2024 00:58:44.933] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[14Dec2024 00:58:45.152] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_02
+[14Dec2024 00:58:46.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[14Dec2024 00:58:49.568] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[14Dec2024 00:58:50.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 00:58:50.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 00:58:52.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[14Dec2024 00:58:53.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexxmahp has made the advancement [Convergent Evolution...]
+[14Dec2024 00:58:54.553] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[14Dec2024 00:58:54.774] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[14Dec2024 00:58:56.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[14Dec2024 00:58:56.659] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@1a17010]Trying to start horde event on day 260 with nextDay 260 and time 18000
+[14Dec2024 00:58:56.659] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@280491c5
+[14Dec2024 00:58:56.660] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 250
+[14Dec2024 00:58:56.660] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 250
+[14Dec2024 00:58:56.660] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 250
+[14Dec2024 00:58:56.661] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:35.0d,Modifiers:[{Amount:0.014134479410614065d,Name:"Random spawn bonus",Operation:1,UUID:[I;1991518311,1041254598,-1646060727,971452088]}],Name:"minecraft:generic.follow_range"},{Base:0.7789525208717148d,Name:"minecraft:horse.jump_strength"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 250
+[14Dec2024 00:58:56.707] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 260
+[14Dec2024 00:58:56.708] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 260
+[14Dec2024 00:58:56.708] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 260
+[14Dec2024 00:58:56.708] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:35.0d,Modifiers:[{Amount:0.014134479410614065d,Name:"Random spawn bonus",Operation:1,UUID:[I;1991518311,1041254598,-1646060727,971452088]}],Name:"minecraft:generic.follow_range"},{Base:0.7789525208717148d,Name:"minecraft:horse.jump_strength"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 260
+[14Dec2024 00:58:57.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[14Dec2024 00:59:07.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[14Dec2024 00:59:07.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path2
+[14Dec2024 00:59:07.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path8
+[14Dec2024 00:59:07.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path7
+[14Dec2024 00:59:07.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_villager
+[14Dec2024 00:59:07.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path3
+[14Dec2024 00:59:07.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path9
+[14Dec2024 00:59:07.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_empty
+[14Dec2024 00:59:07.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path1
+[14Dec2024 00:59:07.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_house4
+[14Dec2024 00:59:07.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_house5
+[14Dec2024 00:59:07.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_cartography
+[14Dec2024 00:59:07.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_decoration2
+[14Dec2024 00:59:07.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_decoration4
+[14Dec2024 00:59:07.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_smoker
+[14Dec2024 00:59:07.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path6
+[14Dec2024 00:59:07.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_cleric
+[14Dec2024 00:59:07.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_grindstone
+[14Dec2024 00:59:07.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_farm2
+[14Dec2024 00:59:07.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_blast_furnace
+[14Dec2024 00:59:07.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_decoration3
+[14Dec2024 00:59:07.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_decoration1
+[14Dec2024 00:59:09.607] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[14Dec2024 00:59:09.617] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[14Dec2024 00:59:09.718] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[14Dec2024 00:59:09.908] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[14Dec2024 00:59:11.781] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[14Dec2024 00:59:12.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14Dec2024 00:59:17.271] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[14Dec2024 00:59:19.768] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[14Dec2024 00:59:20.640] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[14Dec2024 00:59:27.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[14Dec2024 00:59:42.494] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[14Dec2024 00:59:44.331] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[14Dec2024 00:59:44.344] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[14Dec2024 00:59:44.352] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[14Dec2024 00:59:44.367] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[14Dec2024 00:59:44.370] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[14Dec2024 00:59:44.370] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[14Dec2024 00:59:44.378] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[14Dec2024 00:59:44.384] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[14Dec2024 00:59:44.392] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[14Dec2024 00:59:44.406] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[14Dec2024 00:59:44.421] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[14Dec2024 00:59:44.443] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[14Dec2024 00:59:44.467] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[14Dec2024 00:59:44.497] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[14Dec2024 00:59:44.512] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[14Dec2024 00:59:44.559] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[14Dec2024 00:59:46.917] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[14Dec2024 00:59:48.710] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 260
+[14Dec2024 00:59:48.711] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 260
+[14Dec2024 00:59:48.711] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 260
+[14Dec2024 00:59:48.711] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:35.0d,Modifiers:[{Amount:0.003442557710779371d,Name:"Random spawn bonus",Operation:1,UUID:[I;-212396200,1656832268,-1894343623,-378106287]}],Name:"minecraft:generic.follow_range"},{Base:0.6553717110078734d,Name:"minecraft:horse.jump_strength"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 260
+[14Dec2024 00:59:49.423] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9
+[14Dec2024 01:00:15.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[14Dec2024 01:00:22.563] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/177292, l='ServerLevel[world]', x=-4177.72, y=64.00, z=5404.50] died, message: 'Butcher was slain by Zombie'
+[14Dec2024 01:00:26.199] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175083, l='ServerLevel[world]', x=-4571.52, y=77.00, z=11997.15] died, message: 'Unemployed was slain by Zombie'
+[14Dec2024 01:00:32.113] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[14Dec2024 01:00:32.887] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[14Dec2024 01:00:32.888] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[14Dec2024 01:00:37.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14Dec2024 01:00:41.309] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 260
+[14Dec2024 01:00:41.309] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 260
+[14Dec2024 01:00:41.309] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 260
+[14Dec2024 01:00:41.310] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:35.0d,Modifiers:[{Amount:-0.0036864525209570945d,Name:"Random spawn bonus",Operation:1,UUID:[I;338988267,-576306145,-2136002887,-1880889978]}],Name:"minecraft:generic.follow_range"},{Base:0.4414239670023042d,Name:"minecraft:horse.jump_strength"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:1b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 260
+[14Dec2024 01:00:56.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[14Dec2024 01:01:34.103] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 260
+[14Dec2024 01:01:34.103] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 260
+[14Dec2024 01:01:34.103] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 260
+[14Dec2024 01:01:34.104] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:35.0d,Modifiers:[{Amount:-0.05313154319502064d,Name:"Random spawn bonus",Operation:1,UUID:[I;-664195261,-220771479,-1813557469,764931616]}],Name:"minecraft:generic.follow_range"},{Base:0.8953150751684856d,Name:"minecraft:horse.jump_strength"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 260
+[14Dec2024 01:01:34.112] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@1a17010]Can't spawn wave because max cap has been reached
+[14Dec2024 01:01:36.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175085, l='ServerLevel[world]', x=-4577.99, y=71.00, z=12015.82] died, message: 'Unemployed was slain by Husk'
+[14Dec2024 01:01:48.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[14Dec2024 01:01:56.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[14Dec2024 01:02:18.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[14Dec2024 01:02:24.014] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 260
+[14Dec2024 01:02:24.014] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 260
+[14Dec2024 01:02:24.015] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 260
+[14Dec2024 01:02:24.015] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:35.0d,Modifiers:[{Amount:-0.0016250884316884842d,Name:"Random spawn bonus",Operation:1,UUID:[I;1943149223,-1032371434,-1228405665,709874896]}],Name:"minecraft:generic.follow_range"},{Base:0.6522755138219406d,Name:"minecraft:horse.jump_strength"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 260
+[14Dec2024 01:02:24.020] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@1a17010]Can't spawn wave because max cap has been reached
+[14Dec2024 01:02:38.015] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[14Dec2024 01:02:38.062] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[14Dec2024 01:02:38.875] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[14Dec2024 01:02:44.903] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[14Dec2024 01:02:48.203] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[14Dec2024 01:02:48.206] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[14Dec2024 01:02:48.214] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[14Dec2024 01:02:48.219] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[14Dec2024 01:02:48.222] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[14Dec2024 01:02:48.224] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[14Dec2024 01:02:48.225] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[14Dec2024 01:02:48.233] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[14Dec2024 01:02:48.238] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[14Dec2024 01:02:48.242] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[14Dec2024 01:02:48.245] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[14Dec2024 01:02:48.247] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[14Dec2024 01:02:48.249] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[14Dec2024 01:02:48.252] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[14Dec2024 01:02:48.254] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[14Dec2024 01:02:48.255] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[14Dec2024 01:02:48.257] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[14Dec2024 01:02:48.258] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[14Dec2024 01:02:48.260] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[14Dec2024 01:02:48.262] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[14Dec2024 01:02:48.265] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[14Dec2024 01:02:48.266] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[14Dec2024 01:02:48.267] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[14Dec2024 01:02:48.268] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[14Dec2024 01:02:48.269] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[14Dec2024 01:02:48.270] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[14Dec2024 01:02:48.351] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[14Dec2024 01:03:14.087] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 260
+[14Dec2024 01:03:14.088] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 260
+[14Dec2024 01:03:14.088] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 260
+[14Dec2024 01:03:14.089] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:35.0d,Modifiers:[{Amount:0.11005246169515345d,Name:"Random spawn bonus",Operation:1,UUID:[I;-675705360,1961512503,-1852766612,1357364799]}],Name:"minecraft:generic.follow_range"},{Base:0.8046744227633577d,Name:"minecraft:horse.jump_strength"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 260
+[14Dec2024 01:03:17.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[14Dec2024 01:03:17.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[14Dec2024 01:03:17.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[14Dec2024 01:03:17.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[14Dec2024 01:03:17.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[14Dec2024 01:03:20.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14Dec2024 01:03:29.032] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[14Dec2024 01:03:30.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/174782, l='ServerLevel[world]', x=-4571.40, y=83.26, z=11989.24] died, message: 'Unemployed was impaled by Drowned'
+[14Dec2024 01:03:39.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
+[14Dec2024 01:03:44.944] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175082, l='ServerLevel[world]', x=-4562.62, y=82.00, z=11967.58] died, message: 'Unemployed was impaled by Drowned'
+[14Dec2024 01:03:45.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/175084, l='ServerLevel[world]', x=-4585.10, y=85.00, z=12005.85] died, message: 'Unemployed was slain by Husk'
+[14Dec2024 01:03:47.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[14Dec2024 01:04:04.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:04:04.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 01:04:04.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xStephy08 moved too quickly! 0.6050223495940372,-11.021065646797993,-0.6284316013607167
+[14Dec2024 01:04:04.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[14Dec2024 01:06:07.622] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[14Dec2024 01:06:08.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexxmahp: Teleported Alexxmahp to xStephy08]
+[14Dec2024 01:09:04.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:09:04.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 01:14:04.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:14:04.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 01:19:04.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:19:04.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 01:24:04.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 01:24:04.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
